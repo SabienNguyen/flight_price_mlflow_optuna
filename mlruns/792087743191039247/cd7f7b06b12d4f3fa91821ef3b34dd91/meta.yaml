@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/cd7f7b06b12d4f3fa91821ef3b34dd91/artifacts
+end_time: 1707099949656
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: cd7f7b06b12d4f3fa91821ef3b34dd91
+run_name: sincere-penguin-748
+run_uuid: cd7f7b06b12d4f3fa91821ef3b34dd91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099948143
+status: 3
+tags: []
+user_id: sabie

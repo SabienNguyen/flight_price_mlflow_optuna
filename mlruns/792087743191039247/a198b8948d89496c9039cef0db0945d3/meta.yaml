@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a198b8948d89496c9039cef0db0945d3/artifacts
+end_time: 1707100844513
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a198b8948d89496c9039cef0db0945d3
+run_name: clean-shrike-422
+run_uuid: a198b8948d89496c9039cef0db0945d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100843397
+status: 3
+tags: []
+user_id: sabie

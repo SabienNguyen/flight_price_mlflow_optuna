@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/17d44bc52fc94f9890547b447a2b225e/artifacts
+end_time: 1707099679455
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 17d44bc52fc94f9890547b447a2b225e
+run_name: defiant-stork-19
+run_uuid: 17d44bc52fc94f9890547b447a2b225e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099678603
+status: 3
+tags: []
+user_id: sabie

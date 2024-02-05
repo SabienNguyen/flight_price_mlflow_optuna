@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/79bc46184fcb4b0d8dcfa1419210c28a/artifacts
+end_time: 1707099554520
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 79bc46184fcb4b0d8dcfa1419210c28a
+run_name: youthful-finch-985
+run_uuid: 79bc46184fcb4b0d8dcfa1419210c28a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099553543
+status: 3
+tags: []
+user_id: sabie

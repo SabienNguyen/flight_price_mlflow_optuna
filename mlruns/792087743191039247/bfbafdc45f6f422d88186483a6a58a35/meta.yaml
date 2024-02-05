@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/bfbafdc45f6f422d88186483a6a58a35/artifacts
+end_time: 1707099900490
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: bfbafdc45f6f422d88186483a6a58a35
+run_name: dashing-conch-289
+run_uuid: bfbafdc45f6f422d88186483a6a58a35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099899508
+status: 3
+tags: []
+user_id: sabie

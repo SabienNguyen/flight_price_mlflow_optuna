@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/d9ebfe9c650c480eb9fa113fe3b6f72d/artifacts
+end_time: 1707100836233
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: d9ebfe9c650c480eb9fa113fe3b6f72d
+run_name: spiffy-perch-408
+run_uuid: d9ebfe9c650c480eb9fa113fe3b6f72d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100835191
+status: 3
+tags: []
+user_id: sabie

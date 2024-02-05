@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/7f3966b79c2f462981cd398dceba4458/artifacts
+end_time: 1707099819674
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 7f3966b79c2f462981cd398dceba4458
+run_name: delightful-steed-24
+run_uuid: 7f3966b79c2f462981cd398dceba4458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099817562
+status: 3
+tags: []
+user_id: sabie

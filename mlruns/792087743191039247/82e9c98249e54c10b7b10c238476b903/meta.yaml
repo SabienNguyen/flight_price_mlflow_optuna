@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/82e9c98249e54c10b7b10c238476b903/artifacts
+end_time: 1707100638567
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 82e9c98249e54c10b7b10c238476b903
+run_name: victorious-ape-838
+run_uuid: 82e9c98249e54c10b7b10c238476b903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100636673
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/530c78b5613e464f9de510c8272c1d62/artifacts
+end_time: 1707099977654
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 530c78b5613e464f9de510c8272c1d62
+run_name: dazzling-snail-760
+run_uuid: 530c78b5613e464f9de510c8272c1d62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099976718
+status: 3
+tags: []
+user_id: sabie

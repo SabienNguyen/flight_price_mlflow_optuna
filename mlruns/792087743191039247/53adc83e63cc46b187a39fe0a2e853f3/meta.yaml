@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/53adc83e63cc46b187a39fe0a2e853f3/artifacts
+end_time: 1707099561173
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 53adc83e63cc46b187a39fe0a2e853f3
+run_name: nervous-vole-985
+run_uuid: 53adc83e63cc46b187a39fe0a2e853f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099560283
+status: 3
+tags: []
+user_id: sabie

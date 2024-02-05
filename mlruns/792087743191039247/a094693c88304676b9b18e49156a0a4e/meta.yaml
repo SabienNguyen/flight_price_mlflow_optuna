@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a094693c88304676b9b18e49156a0a4e/artifacts
+end_time: 1707100494471
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a094693c88304676b9b18e49156a0a4e
+run_name: resilient-colt-437
+run_uuid: a094693c88304676b9b18e49156a0a4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100493425
+status: 3
+tags: []
+user_id: sabie

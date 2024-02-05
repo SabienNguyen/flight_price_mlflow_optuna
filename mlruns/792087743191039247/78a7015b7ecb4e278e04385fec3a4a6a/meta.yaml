@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/78a7015b7ecb4e278e04385fec3a4a6a/artifacts
+end_time: 1707100698060
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 78a7015b7ecb4e278e04385fec3a4a6a
+run_name: loud-ox-442
+run_uuid: 78a7015b7ecb4e278e04385fec3a4a6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100696294
+status: 3
+tags: []
+user_id: sabie

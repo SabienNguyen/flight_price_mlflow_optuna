@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/c5b14a1947174329aaa354cb3e0b7361/artifacts
+end_time: 1707099767931
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: c5b14a1947174329aaa354cb3e0b7361
+run_name: peaceful-worm-148
+run_uuid: c5b14a1947174329aaa354cb3e0b7361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099766792
+status: 3
+tags: []
+user_id: sabie

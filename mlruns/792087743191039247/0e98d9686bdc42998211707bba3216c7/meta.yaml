@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/0e98d9686bdc42998211707bba3216c7/artifacts
+end_time: 1707099791769
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 0e98d9686bdc42998211707bba3216c7
+run_name: clean-pig-746
+run_uuid: 0e98d9686bdc42998211707bba3216c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099788883
+status: 3
+tags: []
+user_id: sabie

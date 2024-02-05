@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a50a2bf925d74998a5a95c3ddf6aeb3a/artifacts
+end_time: 1707100545214
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a50a2bf925d74998a5a95c3ddf6aeb3a
+run_name: adaptable-lynx-966
+run_uuid: a50a2bf925d74998a5a95c3ddf6aeb3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100543931
+status: 3
+tags: []
+user_id: sabie

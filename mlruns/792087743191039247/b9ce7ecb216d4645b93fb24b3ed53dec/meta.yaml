@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/b9ce7ecb216d4645b93fb24b3ed53dec/artifacts
+end_time: 1707099216887
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: b9ce7ecb216d4645b93fb24b3ed53dec
+run_name: secretive-foal-963
+run_uuid: b9ce7ecb216d4645b93fb24b3ed53dec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099216415
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/50918c3628254487891ce2fbdbe13aa2/artifacts
+end_time: 1707099646854
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 50918c3628254487891ce2fbdbe13aa2
+run_name: marvelous-lark-532
+run_uuid: 50918c3628254487891ce2fbdbe13aa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099645970
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ddb7273cf312472a9b4d05778b3d6a9f/artifacts
+end_time: 1707099053815
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ddb7273cf312472a9b4d05778b3d6a9f
+run_name: luxuriant-hawk-247
+run_uuid: ddb7273cf312472a9b4d05778b3d6a9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099053586
+status: 4
+tags: []
+user_id: sabie

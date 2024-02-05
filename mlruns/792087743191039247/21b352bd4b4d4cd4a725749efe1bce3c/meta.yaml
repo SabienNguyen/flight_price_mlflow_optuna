@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/21b352bd4b4d4cd4a725749efe1bce3c/artifacts
+end_time: 1707100196928
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 21b352bd4b4d4cd4a725749efe1bce3c
+run_name: able-mare-931
+run_uuid: 21b352bd4b4d4cd4a725749efe1bce3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100196403
+status: 3
+tags: []
+user_id: sabie

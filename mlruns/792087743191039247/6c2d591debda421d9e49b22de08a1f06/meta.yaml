@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/6c2d591debda421d9e49b22de08a1f06/artifacts
+end_time: 1707100669210
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 6c2d591debda421d9e49b22de08a1f06
+run_name: rare-zebra-836
+run_uuid: 6c2d591debda421d9e49b22de08a1f06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100667842
+status: 3
+tags: []
+user_id: sabie

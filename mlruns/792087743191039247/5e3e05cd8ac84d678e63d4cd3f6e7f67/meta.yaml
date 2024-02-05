@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/5e3e05cd8ac84d678e63d4cd3f6e7f67/artifacts
+end_time: 1707100453895
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 5e3e05cd8ac84d678e63d4cd3f6e7f67
+run_name: whimsical-crane-92
+run_uuid: 5e3e05cd8ac84d678e63d4cd3f6e7f67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100452576
+status: 3
+tags: []
+user_id: sabie

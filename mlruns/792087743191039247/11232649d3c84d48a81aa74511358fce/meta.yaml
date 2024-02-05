@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/11232649d3c84d48a81aa74511358fce/artifacts
+end_time: 1707100031860
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 11232649d3c84d48a81aa74511358fce
+run_name: awesome-carp-331
+run_uuid: 11232649d3c84d48a81aa74511358fce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100031499
+status: 3
+tags: []
+user_id: sabie

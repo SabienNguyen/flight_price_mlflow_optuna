@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/4f8607264f994c54981e9d2240ff4584/artifacts
+end_time: 1707100059647
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 4f8607264f994c54981e9d2240ff4584
+run_name: rumbling-smelt-443
+run_uuid: 4f8607264f994c54981e9d2240ff4584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100058078
+status: 3
+tags: []
+user_id: sabie

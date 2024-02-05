@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/eeae4a72a8aa43cf81e6112f70b40786/artifacts
+end_time: 1707100471100
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: eeae4a72a8aa43cf81e6112f70b40786
+run_name: serious-sponge-999
+run_uuid: eeae4a72a8aa43cf81e6112f70b40786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100469656
+status: 3
+tags: []
+user_id: sabie

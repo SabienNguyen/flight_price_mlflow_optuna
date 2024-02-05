@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/9db74f9caabe4c70801492758cb0c575/artifacts
+end_time: 1707099230061
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 9db74f9caabe4c70801492758cb0c575
+run_name: clumsy-wolf-797
+run_uuid: 9db74f9caabe4c70801492758cb0c575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099229538
+status: 3
+tags: []
+user_id: sabie

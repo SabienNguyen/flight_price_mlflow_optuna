@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/38fb7d2e04004029b00ba878cd528485/artifacts
+end_time: 1707100000699
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 38fb7d2e04004029b00ba878cd528485
+run_name: awesome-frog-687
+run_uuid: 38fb7d2e04004029b00ba878cd528485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099999966
+status: 3
+tags: []
+user_id: sabie

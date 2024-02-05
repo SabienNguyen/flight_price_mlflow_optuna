@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ef2561477c7740438da50f990f765929/artifacts
+end_time: 1707099183526
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ef2561477c7740438da50f990f765929
+run_name: secretive-carp-460
+run_uuid: ef2561477c7740438da50f990f765929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099181833
+status: 3
+tags: []
+user_id: sabie

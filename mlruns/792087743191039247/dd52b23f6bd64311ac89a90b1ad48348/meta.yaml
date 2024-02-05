@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/dd52b23f6bd64311ac89a90b1ad48348/artifacts
+end_time: 1707099765564
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: dd52b23f6bd64311ac89a90b1ad48348
+run_name: zealous-whale-828
+run_uuid: dd52b23f6bd64311ac89a90b1ad48348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099764495
+status: 3
+tags: []
+user_id: sabie

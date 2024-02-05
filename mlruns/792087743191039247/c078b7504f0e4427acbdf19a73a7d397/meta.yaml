@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/c078b7504f0e4427acbdf19a73a7d397/artifacts
+end_time: 1707099459507
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: c078b7504f0e4427acbdf19a73a7d397
+run_name: tasteful-mole-576
+run_uuid: c078b7504f0e4427acbdf19a73a7d397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099458109
+status: 3
+tags: []
+user_id: sabie

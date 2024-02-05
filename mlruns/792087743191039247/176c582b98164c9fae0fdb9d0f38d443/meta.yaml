@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/176c582b98164c9fae0fdb9d0f38d443/artifacts
+end_time: 1707100816717
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 176c582b98164c9fae0fdb9d0f38d443
+run_name: enthused-wren-988
+run_uuid: 176c582b98164c9fae0fdb9d0f38d443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100815420
+status: 3
+tags: []
+user_id: sabie

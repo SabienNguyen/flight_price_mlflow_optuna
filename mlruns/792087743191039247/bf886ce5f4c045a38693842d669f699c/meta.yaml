@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/bf886ce5f4c045a38693842d669f699c/artifacts
+end_time: 1707099582310
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: bf886ce5f4c045a38693842d669f699c
+run_name: resilient-finch-141
+run_uuid: bf886ce5f4c045a38693842d669f699c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099581704
+status: 3
+tags: []
+user_id: sabie

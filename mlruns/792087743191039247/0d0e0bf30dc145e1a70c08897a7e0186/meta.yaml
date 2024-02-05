@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/0d0e0bf30dc145e1a70c08897a7e0186/artifacts
+end_time: 1707100358221
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 0d0e0bf30dc145e1a70c08897a7e0186
+run_name: charming-shoat-169
+run_uuid: 0d0e0bf30dc145e1a70c08897a7e0186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100356997
+status: 3
+tags: []
+user_id: sabie

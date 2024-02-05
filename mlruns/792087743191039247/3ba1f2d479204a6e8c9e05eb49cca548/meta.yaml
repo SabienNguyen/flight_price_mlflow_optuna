@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/3ba1f2d479204a6e8c9e05eb49cca548/artifacts
+end_time: 1707099087653
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 3ba1f2d479204a6e8c9e05eb49cca548
+run_name: wise-fawn-151
+run_uuid: 3ba1f2d479204a6e8c9e05eb49cca548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099087120
+status: 3
+tags: []
+user_id: sabie

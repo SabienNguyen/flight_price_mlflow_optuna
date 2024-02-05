@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a861bb4e021b4fcdbfc79cf2bcac6ecc/artifacts
+end_time: 1707099570618
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a861bb4e021b4fcdbfc79cf2bcac6ecc
+run_name: sneaky-fly-826
+run_uuid: a861bb4e021b4fcdbfc79cf2bcac6ecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099570202
+status: 3
+tags: []
+user_id: sabie

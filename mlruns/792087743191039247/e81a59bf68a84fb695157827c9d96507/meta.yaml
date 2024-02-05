@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/e81a59bf68a84fb695157827c9d96507/artifacts
+end_time: 1707099451565
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: e81a59bf68a84fb695157827c9d96507
+run_name: flawless-cat-629
+run_uuid: e81a59bf68a84fb695157827c9d96507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099450734
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/3250cbb0e02949cdb0c0b13c3201aab9/artifacts
+end_time: 1707100683618
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 3250cbb0e02949cdb0c0b13c3201aab9
+run_name: agreeable-stoat-908
+run_uuid: 3250cbb0e02949cdb0c0b13c3201aab9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100682344
+status: 3
+tags: []
+user_id: sabie

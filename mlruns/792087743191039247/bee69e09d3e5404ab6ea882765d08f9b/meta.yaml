@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/bee69e09d3e5404ab6ea882765d08f9b/artifacts
+end_time: 1707099890976
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: bee69e09d3e5404ab6ea882765d08f9b
+run_name: puzzled-squirrel-922
+run_uuid: bee69e09d3e5404ab6ea882765d08f9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099890280
+status: 3
+tags: []
+user_id: sabie

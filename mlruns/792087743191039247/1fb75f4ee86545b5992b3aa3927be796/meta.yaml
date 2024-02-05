@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/1fb75f4ee86545b5992b3aa3927be796/artifacts
+end_time: 1707099470918
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 1fb75f4ee86545b5992b3aa3927be796
+run_name: flawless-foal-69
+run_uuid: 1fb75f4ee86545b5992b3aa3927be796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099469841
+status: 3
+tags: []
+user_id: sabie

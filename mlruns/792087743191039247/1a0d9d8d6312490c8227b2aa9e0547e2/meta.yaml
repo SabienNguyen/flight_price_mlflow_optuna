@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/1a0d9d8d6312490c8227b2aa9e0547e2/artifacts
+end_time: 1707100457343
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 1a0d9d8d6312490c8227b2aa9e0547e2
+run_name: calm-newt-586
+run_uuid: 1a0d9d8d6312490c8227b2aa9e0547e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100456044
+status: 3
+tags: []
+user_id: sabie

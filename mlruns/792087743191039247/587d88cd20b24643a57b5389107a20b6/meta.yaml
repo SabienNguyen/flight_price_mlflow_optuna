@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/587d88cd20b24643a57b5389107a20b6/artifacts
+end_time: 1707099796500
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 587d88cd20b24643a57b5389107a20b6
+run_name: traveling-shark-647
+run_uuid: 587d88cd20b24643a57b5389107a20b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099795099
+status: 3
+tags: []
+user_id: sabie

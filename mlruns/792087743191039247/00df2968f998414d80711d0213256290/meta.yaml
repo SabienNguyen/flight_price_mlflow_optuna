@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/00df2968f998414d80711d0213256290/artifacts
+end_time: 1707099808489
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 00df2968f998414d80711d0213256290
+run_name: rambunctious-crow-95
+run_uuid: 00df2968f998414d80711d0213256290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099807457
+status: 3
+tags: []
+user_id: sabie

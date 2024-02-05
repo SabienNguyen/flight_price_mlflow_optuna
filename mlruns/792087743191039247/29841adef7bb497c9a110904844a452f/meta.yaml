@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/29841adef7bb497c9a110904844a452f/artifacts
+end_time: 1707099734460
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 29841adef7bb497c9a110904844a452f
+run_name: languid-carp-864
+run_uuid: 29841adef7bb497c9a110904844a452f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099733707
+status: 3
+tags: []
+user_id: sabie

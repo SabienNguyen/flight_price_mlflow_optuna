@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/e894b3a6f6ff429489fe9791d3db71eb/artifacts
+end_time: 1707099204566
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: e894b3a6f6ff429489fe9791d3db71eb
+run_name: lyrical-bear-672
+run_uuid: e894b3a6f6ff429489fe9791d3db71eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099203967
+status: 3
+tags: []
+user_id: sabie

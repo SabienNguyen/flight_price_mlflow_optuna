@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/01abcb58ada6427795a573fa97435720/artifacts
+end_time: 1707099885118
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 01abcb58ada6427795a573fa97435720
+run_name: exultant-snake-274
+run_uuid: 01abcb58ada6427795a573fa97435720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099884355
+status: 3
+tags: []
+user_id: sabie

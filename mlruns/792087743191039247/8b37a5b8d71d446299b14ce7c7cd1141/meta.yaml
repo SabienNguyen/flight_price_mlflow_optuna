@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/8b37a5b8d71d446299b14ce7c7cd1141/artifacts
+end_time: 1707100646212
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 8b37a5b8d71d446299b14ce7c7cd1141
+run_name: thundering-boar-475
+run_uuid: 8b37a5b8d71d446299b14ce7c7cd1141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100644146
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/53c8b49846f44150b2d11caae15f53d3/artifacts
+end_time: 1707100151086
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 53c8b49846f44150b2d11caae15f53d3
+run_name: defiant-eel-599
+run_uuid: 53c8b49846f44150b2d11caae15f53d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100150348
+status: 3
+tags: []
+user_id: sabie

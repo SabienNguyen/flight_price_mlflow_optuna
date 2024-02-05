@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/5a792823ba4c40b5b6857f7aa574b1f3/artifacts
+end_time: 1707100210776
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 5a792823ba4c40b5b6857f7aa574b1f3
+run_name: charming-loon-849
+run_uuid: 5a792823ba4c40b5b6857f7aa574b1f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100210046
+status: 3
+tags: []
+user_id: sabie

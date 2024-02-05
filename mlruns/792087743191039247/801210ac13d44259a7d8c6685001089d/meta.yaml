@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/801210ac13d44259a7d8c6685001089d/artifacts
+end_time: 1707099537540
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 801210ac13d44259a7d8c6685001089d
+run_name: spiffy-kit-817
+run_uuid: 801210ac13d44259a7d8c6685001089d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099536850
+status: 3
+tags: []
+user_id: sabie

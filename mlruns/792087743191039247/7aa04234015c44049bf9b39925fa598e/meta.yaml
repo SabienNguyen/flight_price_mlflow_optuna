@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/7aa04234015c44049bf9b39925fa598e/artifacts
+end_time: 1707099476807
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 7aa04234015c44049bf9b39925fa598e
+run_name: parameter trials
+run_uuid: 7aa04234015c44049bf9b39925fa598e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099432913
+status: 4
+tags: []
+user_id: sabie

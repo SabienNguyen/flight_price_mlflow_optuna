@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ee3965b02a6d442cb0ab70f4b6f96fc1/artifacts
+end_time: 1707099227335
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ee3965b02a6d442cb0ab70f4b6f96fc1
+run_name: bedecked-dolphin-984
+run_uuid: ee3965b02a6d442cb0ab70f4b6f96fc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099226708
+status: 3
+tags: []
+user_id: sabie

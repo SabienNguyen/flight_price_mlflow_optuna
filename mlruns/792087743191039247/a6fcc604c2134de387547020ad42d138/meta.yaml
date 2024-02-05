@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a6fcc604c2134de387547020ad42d138/artifacts
+end_time: 1707099216393
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a6fcc604c2134de387547020ad42d138
+run_name: capable-dove-948
+run_uuid: a6fcc604c2134de387547020ad42d138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099215984
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/054e7601a6f9449f9fde1939d44f4486/artifacts
+end_time: 1707100444625
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 054e7601a6f9449f9fde1939d44f4486
+run_name: whimsical-penguin-99
+run_uuid: 054e7601a6f9449f9fde1939d44f4486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100443038
+status: 3
+tags: []
+user_id: sabie

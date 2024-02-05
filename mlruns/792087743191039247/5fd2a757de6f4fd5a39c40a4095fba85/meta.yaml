@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/5fd2a757de6f4fd5a39c40a4095fba85/artifacts
+end_time: 1707099166144
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 5fd2a757de6f4fd5a39c40a4095fba85
+run_name: treasured-lamb-549
+run_uuid: 5fd2a757de6f4fd5a39c40a4095fba85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099164955
+status: 3
+tags: []
+user_id: sabie

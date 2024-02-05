@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/54d1093e652c4dd8b22753aea775f035/artifacts
+end_time: 1707099222811
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 54d1093e652c4dd8b22753aea775f035
+run_name: auspicious-bear-36
+run_uuid: 54d1093e652c4dd8b22753aea775f035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099222055
+status: 3
+tags: []
+user_id: sabie

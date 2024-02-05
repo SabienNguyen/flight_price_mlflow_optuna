@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/32cf2090b6a1446a927cc6ebd3fa95de/artifacts
+end_time: 1707100674579
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 32cf2090b6a1446a927cc6ebd3fa95de
+run_name: languid-dolphin-969
+run_uuid: 32cf2090b6a1446a927cc6ebd3fa95de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100673259
+status: 3
+tags: []
+user_id: sabie

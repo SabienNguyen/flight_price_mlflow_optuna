@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/d9e825d3de764b9e9a257dd766631cce/artifacts
+end_time: 1707099135113
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: d9e825d3de764b9e9a257dd766631cce
+run_name: bold-vole-90
+run_uuid: d9e825d3de764b9e9a257dd766631cce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099133571
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/378667e49bdb4799b47c26e4887acd17/artifacts
+end_time: 1707100481683
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 378667e49bdb4799b47c26e4887acd17
+run_name: masked-zebra-591
+run_uuid: 378667e49bdb4799b47c26e4887acd17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100480430
+status: 3
+tags: []
+user_id: sabie

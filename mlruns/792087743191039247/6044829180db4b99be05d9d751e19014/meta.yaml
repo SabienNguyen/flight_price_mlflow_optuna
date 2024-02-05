@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/6044829180db4b99be05d9d751e19014/artifacts
+end_time: 1707100728908
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 6044829180db4b99be05d9d751e19014
+run_name: marvelous-bear-175
+run_uuid: 6044829180db4b99be05d9d751e19014
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100727399
+status: 3
+tags: []
+user_id: sabie

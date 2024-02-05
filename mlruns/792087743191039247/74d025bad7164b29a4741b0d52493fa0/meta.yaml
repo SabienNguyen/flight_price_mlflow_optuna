@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/74d025bad7164b29a4741b0d52493fa0/artifacts
+end_time: 1707100214105
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 74d025bad7164b29a4741b0d52493fa0
+run_name: serious-deer-938
+run_uuid: 74d025bad7164b29a4741b0d52493fa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100213497
+status: 3
+tags: []
+user_id: sabie

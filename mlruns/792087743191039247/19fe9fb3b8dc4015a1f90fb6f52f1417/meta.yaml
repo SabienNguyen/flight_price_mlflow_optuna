@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/19fe9fb3b8dc4015a1f90fb6f52f1417/artifacts
+end_time: 1707099468886
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 19fe9fb3b8dc4015a1f90fb6f52f1417
+run_name: upset-crab-980
+run_uuid: 19fe9fb3b8dc4015a1f90fb6f52f1417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099468049
+status: 3
+tags: []
+user_id: sabie

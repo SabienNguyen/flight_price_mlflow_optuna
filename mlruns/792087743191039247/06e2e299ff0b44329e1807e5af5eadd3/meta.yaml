@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/06e2e299ff0b44329e1807e5af5eadd3/artifacts
+end_time: 1707100197574
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 06e2e299ff0b44329e1807e5af5eadd3
+run_name: redolent-boar-869
+run_uuid: 06e2e299ff0b44329e1807e5af5eadd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100196956
+status: 3
+tags: []
+user_id: sabie

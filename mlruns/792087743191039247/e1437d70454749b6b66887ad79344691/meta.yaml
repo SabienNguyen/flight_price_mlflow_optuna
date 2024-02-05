@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/e1437d70454749b6b66887ad79344691/artifacts
+end_time: 1707099441215
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: e1437d70454749b6b66887ad79344691
+run_name: bouncy-hen-356
+run_uuid: e1437d70454749b6b66887ad79344691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099440553
+status: 3
+tags: []
+user_id: sabie

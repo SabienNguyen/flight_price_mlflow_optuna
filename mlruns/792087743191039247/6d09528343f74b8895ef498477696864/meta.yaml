@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/6d09528343f74b8895ef498477696864/artifacts
+end_time: 1707100031467
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 6d09528343f74b8895ef498477696864
+run_name: hilarious-vole-722
+run_uuid: 6d09528343f74b8895ef498477696864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100030545
+status: 3
+tags: []
+user_id: sabie

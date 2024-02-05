@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/92477f7695e3407aa03cc9b84679345d/artifacts
+end_time: 1707099695240
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 92477f7695e3407aa03cc9b84679345d
+run_name: rebellious-kit-694
+run_uuid: 92477f7695e3407aa03cc9b84679345d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099694222
+status: 3
+tags: []
+user_id: sabie

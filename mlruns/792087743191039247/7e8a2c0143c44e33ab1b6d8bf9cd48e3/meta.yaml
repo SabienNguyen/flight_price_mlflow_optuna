@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/7e8a2c0143c44e33ab1b6d8bf9cd48e3/artifacts
+end_time: 1707099139330
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 7e8a2c0143c44e33ab1b6d8bf9cd48e3
+run_name: funny-carp-771
+run_uuid: 7e8a2c0143c44e33ab1b6d8bf9cd48e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099138594
+status: 3
+tags: []
+user_id: sabie

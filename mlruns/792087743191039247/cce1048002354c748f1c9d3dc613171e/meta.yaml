@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/cce1048002354c748f1c9d3dc613171e/artifacts
+end_time: 1707099735827
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: cce1048002354c748f1c9d3dc613171e
+run_name: rumbling-rook-532
+run_uuid: cce1048002354c748f1c9d3dc613171e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099735263
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/2c45769f45e2462fbf54ddcb3a25c299/artifacts
+end_time: 1707100662805
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 2c45769f45e2462fbf54ddcb3a25c299
+run_name: upbeat-lamb-881
+run_uuid: 2c45769f45e2462fbf54ddcb3a25c299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100661245
+status: 3
+tags: []
+user_id: sabie

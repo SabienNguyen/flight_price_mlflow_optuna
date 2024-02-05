@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/602f671d8e2c4e19a3cca3e188633b6f/artifacts
+end_time: 1707099051078
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 602f671d8e2c4e19a3cca3e188633b6f
+run_name: youthful-goat-528
+run_uuid: 602f671d8e2c4e19a3cca3e188633b6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099050534
+status: 3
+tags: []
+user_id: sabie

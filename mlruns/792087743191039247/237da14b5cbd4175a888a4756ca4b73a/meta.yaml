@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/237da14b5cbd4175a888a4756ca4b73a/artifacts
+end_time: 1707099718763
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 237da14b5cbd4175a888a4756ca4b73a
+run_name: industrious-kit-532
+run_uuid: 237da14b5cbd4175a888a4756ca4b73a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099718006
+status: 3
+tags: []
+user_id: sabie

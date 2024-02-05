@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/6a471995bf04472b9c34f9b30d77735e/artifacts
+end_time: 1707099770178
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 6a471995bf04472b9c34f9b30d77735e
+run_name: clean-tern-921
+run_uuid: 6a471995bf04472b9c34f9b30d77735e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099769073
+status: 3
+tags: []
+user_id: sabie

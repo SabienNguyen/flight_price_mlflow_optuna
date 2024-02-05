@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/b4c26b5052f44ff5be6a930b30a1ee5a/artifacts
+end_time: 1707100751198
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: b4c26b5052f44ff5be6a930b30a1ee5a
+run_name: bemused-snipe-376
+run_uuid: b4c26b5052f44ff5be6a930b30a1ee5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100748770
+status: 3
+tags: []
+user_id: sabie

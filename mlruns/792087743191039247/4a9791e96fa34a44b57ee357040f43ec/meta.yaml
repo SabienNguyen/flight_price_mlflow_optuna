@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/4a9791e96fa34a44b57ee357040f43ec/artifacts
+end_time: 1707100384920
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 4a9791e96fa34a44b57ee357040f43ec
+run_name: upbeat-skunk-590
+run_uuid: 4a9791e96fa34a44b57ee357040f43ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100383048
+status: 3
+tags: []
+user_id: sabie

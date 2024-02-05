@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/cce9060fb4ff42a08a46da90b68eb7fe/artifacts
+end_time: 1707099736635
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: cce9060fb4ff42a08a46da90b68eb7fe
+run_name: calm-wolf-981
+run_uuid: cce9060fb4ff42a08a46da90b68eb7fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099735853
+status: 3
+tags: []
+user_id: sabie

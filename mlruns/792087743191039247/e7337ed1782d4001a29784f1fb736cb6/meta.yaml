@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/e7337ed1782d4001a29784f1fb736cb6/artifacts
+end_time: 1707100283247
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: e7337ed1782d4001a29784f1fb736cb6
+run_name: dazzling-dove-754
+run_uuid: e7337ed1782d4001a29784f1fb736cb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100281282
+status: 3
+tags: []
+user_id: sabie

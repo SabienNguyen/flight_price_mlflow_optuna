@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a625f8f5bbcf44b794a34d6a61082685/artifacts
+end_time: 1707099944527
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a625f8f5bbcf44b794a34d6a61082685
+run_name: valuable-wren-437
+run_uuid: a625f8f5bbcf44b794a34d6a61082685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099942831
+status: 3
+tags: []
+user_id: sabie

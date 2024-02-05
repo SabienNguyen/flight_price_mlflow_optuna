@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/f43704cb585e4988a0b776953d791418/artifacts
+end_time: 1707099974018
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: f43704cb585e4988a0b776953d791418
+run_name: thundering-yak-771
+run_uuid: f43704cb585e4988a0b776953d791418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099973071
+status: 3
+tags: []
+user_id: sabie

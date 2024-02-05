@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/e3511cb4aabd4225830d21e11c2e1abd/artifacts
+end_time: 1707100039936
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: e3511cb4aabd4225830d21e11c2e1abd
+run_name: polite-owl-176
+run_uuid: e3511cb4aabd4225830d21e11c2e1abd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100038788
+status: 3
+tags: []
+user_id: sabie

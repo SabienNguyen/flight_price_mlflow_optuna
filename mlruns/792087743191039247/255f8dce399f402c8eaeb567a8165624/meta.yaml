@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/255f8dce399f402c8eaeb567a8165624/artifacts
+end_time: 1707100480390
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 255f8dce399f402c8eaeb567a8165624
+run_name: merciful-trout-540
+run_uuid: 255f8dce399f402c8eaeb567a8165624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100479115
+status: 3
+tags: []
+user_id: sabie

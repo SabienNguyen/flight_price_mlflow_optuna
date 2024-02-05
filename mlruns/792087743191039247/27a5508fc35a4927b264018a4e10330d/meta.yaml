@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/27a5508fc35a4927b264018a4e10330d/artifacts
+end_time: 1707099176221
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 27a5508fc35a4927b264018a4e10330d
+run_name: zealous-elk-411
+run_uuid: 27a5508fc35a4927b264018a4e10330d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099175514
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/dc100e32dd9f440eb1944b593b398555/artifacts
+end_time: 1707100149719
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: dc100e32dd9f440eb1944b593b398555
+run_name: calm-snail-469
+run_uuid: dc100e32dd9f440eb1944b593b398555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100148690
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/0ee3d22b15a348708a1f4a6df195a8cf/artifacts
+end_time: 1707100150319
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 0ee3d22b15a348708a1f4a6df195a8cf
+run_name: languid-mule-286
+run_uuid: 0ee3d22b15a348708a1f4a6df195a8cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100149745
+status: 3
+tags: []
+user_id: sabie

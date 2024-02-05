@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/dc7716efc79b4800b1503cce3dc6c129/artifacts
+end_time: 1707100349092
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: dc7716efc79b4800b1503cce3dc6c129
+run_name: suave-smelt-598
+run_uuid: dc7716efc79b4800b1503cce3dc6c129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100347874
+status: 3
+tags: []
+user_id: sabie

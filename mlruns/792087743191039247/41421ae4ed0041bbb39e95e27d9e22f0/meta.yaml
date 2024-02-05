@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/41421ae4ed0041bbb39e95e27d9e22f0/artifacts
+end_time: 1707100846953
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 41421ae4ed0041bbb39e95e27d9e22f0
+run_name: valuable-squid-438
+run_uuid: 41421ae4ed0041bbb39e95e27d9e22f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100845749
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/77b5faa55ba2443ea1740ddcc26acd8b/artifacts
+end_time: 1707099189717
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 77b5faa55ba2443ea1740ddcc26acd8b
+run_name: mercurial-pug-33
+run_uuid: 77b5faa55ba2443ea1740ddcc26acd8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099188677
+status: 3
+tags: []
+user_id: sabie

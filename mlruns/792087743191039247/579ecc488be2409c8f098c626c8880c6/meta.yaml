@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/579ecc488be2409c8f098c626c8880c6/artifacts
+end_time: 1707100664427
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 579ecc488be2409c8f098c626c8880c6
+run_name: sneaky-ape-217
+run_uuid: 579ecc488be2409c8f098c626c8880c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100662843
+status: 3
+tags: []
+user_id: sabie

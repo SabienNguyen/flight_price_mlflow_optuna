@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/01fb11c48d3245c791e4216df077682c/artifacts
+end_time: 1707100714451
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 01fb11c48d3245c791e4216df077682c
+run_name: puzzled-hen-152
+run_uuid: 01fb11c48d3245c791e4216df077682c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100712970
+status: 3
+tags: []
+user_id: sabie

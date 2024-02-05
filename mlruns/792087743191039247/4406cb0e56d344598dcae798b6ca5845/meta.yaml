@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/4406cb0e56d344598dcae798b6ca5845/artifacts
+end_time: 1707100228273
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 4406cb0e56d344598dcae798b6ca5845
+run_name: efficient-trout-283
+run_uuid: 4406cb0e56d344598dcae798b6ca5845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100226624
+status: 3
+tags: []
+user_id: sabie

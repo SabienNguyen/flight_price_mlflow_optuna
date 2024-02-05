@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ee163e5617694891b511070365c147c5/artifacts
+end_time: 1707100675823
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ee163e5617694891b511070365c147c5
+run_name: legendary-crow-135
+run_uuid: ee163e5617694891b511070365c147c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100674613
+status: 3
+tags: []
+user_id: sabie

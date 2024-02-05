@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/1b2c6da0e8e14576aa0050f83ef21e7c/artifacts
+end_time: 1707099689221
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 1b2c6da0e8e14576aa0050f83ef21e7c
+run_name: upbeat-trout-706
+run_uuid: 1b2c6da0e8e14576aa0050f83ef21e7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099688079
+status: 3
+tags: []
+user_id: sabie

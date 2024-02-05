@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/2c4939bcf7de47b9a98269b6a64a060a/artifacts
+end_time: 1707100788314
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 2c4939bcf7de47b9a98269b6a64a060a
+run_name: chill-eel-804
+run_uuid: 2c4939bcf7de47b9a98269b6a64a060a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100787288
+status: 3
+tags: []
+user_id: sabie

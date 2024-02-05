@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ec284c5ea5c948b68d44e7cd45140e76/artifacts
+end_time: 1707100486959
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ec284c5ea5c948b68d44e7cd45140e76
+run_name: placid-boar-438
+run_uuid: ec284c5ea5c948b68d44e7cd45140e76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100485555
+status: 3
+tags: []
+user_id: sabie

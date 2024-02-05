@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/074bcd627571495b88c94207069e9b5b/artifacts
+end_time: 1707099234181
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 074bcd627571495b88c94207069e9b5b
+run_name: crawling-doe-106
+run_uuid: 074bcd627571495b88c94207069e9b5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099233485
+status: 3
+tags: []
+user_id: sabie

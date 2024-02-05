@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/1962b7a9f2ec4fbda5bf7e2697f014cd/artifacts
+end_time: 1707099175475
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 1962b7a9f2ec4fbda5bf7e2697f014cd
+run_name: mercurial-goose-969
+run_uuid: 1962b7a9f2ec4fbda5bf7e2697f014cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099174789
+status: 3
+tags: []
+user_id: sabie

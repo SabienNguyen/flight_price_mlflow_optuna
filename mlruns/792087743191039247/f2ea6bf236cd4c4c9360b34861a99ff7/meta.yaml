@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/f2ea6bf236cd4c4c9360b34861a99ff7/artifacts
+end_time: 1707100571820
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: f2ea6bf236cd4c4c9360b34861a99ff7
+run_name: upset-quail-135
+run_uuid: f2ea6bf236cd4c4c9360b34861a99ff7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100569565
+status: 3
+tags: []
+user_id: sabie

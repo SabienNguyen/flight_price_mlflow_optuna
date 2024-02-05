@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/d1cea7bab66c466ba7b4263ff298b464/artifacts
+end_time: 1707100717409
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: d1cea7bab66c466ba7b4263ff298b464
+run_name: rumbling-dog-92
+run_uuid: d1cea7bab66c466ba7b4263ff298b464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100715901
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/c5f7364be2e349c8a685d5735eb1f810/artifacts
+end_time: 1707099186515
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: c5f7364be2e349c8a685d5735eb1f810
+run_name: awesome-foal-464
+run_uuid: c5f7364be2e349c8a685d5735eb1f810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099184966
+status: 3
+tags: []
+user_id: sabie

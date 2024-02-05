@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/9a59c03769e44d1d92ab9aaf875fe8ee/artifacts
+end_time: 1707100070407
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 9a59c03769e44d1d92ab9aaf875fe8ee
+run_name: bedecked-shark-202
+run_uuid: 9a59c03769e44d1d92ab9aaf875fe8ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100068956
+status: 3
+tags: []
+user_id: sabie

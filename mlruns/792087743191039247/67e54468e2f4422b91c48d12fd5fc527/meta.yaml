@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/67e54468e2f4422b91c48d12fd5fc527/artifacts
+end_time: 1707100622977
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 67e54468e2f4422b91c48d12fd5fc527
+run_name: burly-newt-452
+run_uuid: 67e54468e2f4422b91c48d12fd5fc527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100621894
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/2bd1bf33f5f7469da361166a738b962a/artifacts
+end_time: 1707099113044
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 2bd1bf33f5f7469da361166a738b962a
+run_name: bedecked-mole-548
+run_uuid: 2bd1bf33f5f7469da361166a738b962a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099112396
+status: 3
+tags: []
+user_id: sabie

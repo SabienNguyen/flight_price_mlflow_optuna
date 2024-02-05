@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/235e5982e1d244caa095d39ebea0b8da/artifacts
+end_time: 1707099436825
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 235e5982e1d244caa095d39ebea0b8da
+run_name: whimsical-wren-41
+run_uuid: 235e5982e1d244caa095d39ebea0b8da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099436410
+status: 3
+tags: []
+user_id: sabie

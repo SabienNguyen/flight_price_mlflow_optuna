@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/f4c9ced93fe74718b094e7552eaf2188/artifacts
+end_time: 1707099552544
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: f4c9ced93fe74718b094e7552eaf2188
+run_name: kindly-jay-590
+run_uuid: f4c9ced93fe74718b094e7552eaf2188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099551767
+status: 3
+tags: []
+user_id: sabie

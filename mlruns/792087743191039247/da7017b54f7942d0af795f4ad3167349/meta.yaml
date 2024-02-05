@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/da7017b54f7942d0af795f4ad3167349/artifacts
+end_time: 1707099667454
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: da7017b54f7942d0af795f4ad3167349
+run_name: puzzled-auk-819
+run_uuid: da7017b54f7942d0af795f4ad3167349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099666973
+status: 3
+tags: []
+user_id: sabie

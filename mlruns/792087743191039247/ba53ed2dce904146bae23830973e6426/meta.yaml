@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ba53ed2dce904146bae23830973e6426/artifacts
+end_time: 1707099467315
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ba53ed2dce904146bae23830973e6426
+run_name: fearless-whale-204
+run_uuid: ba53ed2dce904146bae23830973e6426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099466090
+status: 3
+tags: []
+user_id: sabie

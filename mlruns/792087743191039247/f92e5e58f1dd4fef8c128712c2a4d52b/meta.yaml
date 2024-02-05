@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/f92e5e58f1dd4fef8c128712c2a4d52b/artifacts
+end_time: 1707099846141
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: f92e5e58f1dd4fef8c128712c2a4d52b
+run_name: casual-yak-771
+run_uuid: f92e5e58f1dd4fef8c128712c2a4d52b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099844942
+status: 3
+tags: []
+user_id: sabie

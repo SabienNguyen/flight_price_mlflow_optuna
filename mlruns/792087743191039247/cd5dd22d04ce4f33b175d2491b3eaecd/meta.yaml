@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/cd5dd22d04ce4f33b175d2491b3eaecd/artifacts
+end_time: 1707099169640
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: cd5dd22d04ce4f33b175d2491b3eaecd
+run_name: resilient-cub-544
+run_uuid: cd5dd22d04ce4f33b175d2491b3eaecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099168499
+status: 3
+tags: []
+user_id: sabie

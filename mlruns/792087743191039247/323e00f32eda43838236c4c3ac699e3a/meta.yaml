@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/323e00f32eda43838236c4c3ac699e3a/artifacts
+end_time: 1707099584261
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 323e00f32eda43838236c4c3ac699e3a
+run_name: worried-shrew-351
+run_uuid: 323e00f32eda43838236c4c3ac699e3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099583367
+status: 3
+tags: []
+user_id: sabie

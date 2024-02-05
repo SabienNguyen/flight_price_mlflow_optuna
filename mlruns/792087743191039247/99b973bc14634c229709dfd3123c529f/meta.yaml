@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/99b973bc14634c229709dfd3123c529f/artifacts
+end_time: 1707100802989
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 99b973bc14634c229709dfd3123c529f
+run_name: industrious-newt-786
+run_uuid: 99b973bc14634c229709dfd3123c529f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100802061
+status: 3
+tags: []
+user_id: sabie

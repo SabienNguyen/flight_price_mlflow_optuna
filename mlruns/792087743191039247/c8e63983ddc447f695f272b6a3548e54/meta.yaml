@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/c8e63983ddc447f695f272b6a3548e54/artifacts
+end_time: 1707100830671
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: c8e63983ddc447f695f272b6a3548e54
+run_name: rare-worm-530
+run_uuid: c8e63983ddc447f695f272b6a3548e54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100829466
+status: 3
+tags: []
+user_id: sabie

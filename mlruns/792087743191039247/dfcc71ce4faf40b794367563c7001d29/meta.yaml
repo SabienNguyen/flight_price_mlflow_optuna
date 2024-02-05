@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/dfcc71ce4faf40b794367563c7001d29/artifacts
+end_time: 1707100718950
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: dfcc71ce4faf40b794367563c7001d29
+run_name: wistful-cod-658
+run_uuid: dfcc71ce4faf40b794367563c7001d29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100717443
+status: 3
+tags: []
+user_id: sabie

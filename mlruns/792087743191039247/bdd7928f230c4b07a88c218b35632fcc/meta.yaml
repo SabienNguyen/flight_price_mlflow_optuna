@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/bdd7928f230c4b07a88c218b35632fcc/artifacts
+end_time: 1707100746697
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: bdd7928f230c4b07a88c218b35632fcc
+run_name: receptive-fox-967
+run_uuid: bdd7928f230c4b07a88c218b35632fcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100745137
+status: 3
+tags: []
+user_id: sabie

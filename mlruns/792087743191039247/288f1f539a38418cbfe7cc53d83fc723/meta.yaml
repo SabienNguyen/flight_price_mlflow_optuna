@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/288f1f539a38418cbfe7cc53d83fc723/artifacts
+end_time: 1707100820893
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 288f1f539a38418cbfe7cc53d83fc723
+run_name: able-worm-423
+run_uuid: 288f1f539a38418cbfe7cc53d83fc723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100819645
+status: 3
+tags: []
+user_id: sabie

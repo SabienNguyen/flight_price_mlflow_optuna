@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/d8654d6ff3a646b08c6a505260648dbe/artifacts
+end_time: 1707100507352
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: d8654d6ff3a646b08c6a505260648dbe
+run_name: vaunted-mule-490
+run_uuid: d8654d6ff3a646b08c6a505260648dbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100506275
+status: 3
+tags: []
+user_id: sabie

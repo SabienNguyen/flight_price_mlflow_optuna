@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/97f6f3502adb451587cb5163fb5e4584/artifacts
+end_time: 1707100187386
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 97f6f3502adb451587cb5163fb5e4584
+run_name: learned-ox-404
+run_uuid: 97f6f3502adb451587cb5163fb5e4584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100186625
+status: 3
+tags: []
+user_id: sabie

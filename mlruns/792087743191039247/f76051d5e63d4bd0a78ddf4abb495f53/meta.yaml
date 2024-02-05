@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/f76051d5e63d4bd0a78ddf4abb495f53/artifacts
+end_time: 1707100682313
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: f76051d5e63d4bd0a78ddf4abb495f53
+run_name: indecisive-gull-5
+run_uuid: f76051d5e63d4bd0a78ddf4abb495f53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100681070
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/02cb0e048eea4e798567a04d17c16158/artifacts
+end_time: 1707100797214
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 02cb0e048eea4e798567a04d17c16158
+run_name: unleashed-carp-89
+run_uuid: 02cb0e048eea4e798567a04d17c16158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100796296
+status: 3
+tags: []
+user_id: sabie

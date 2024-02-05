@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/9ef1fb0c19ea4216b58a3a0943ec2ab7/artifacts
+end_time: 1707099682631
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 9ef1fb0c19ea4216b58a3a0943ec2ab7
+run_name: adaptable-shrimp-137
+run_uuid: 9ef1fb0c19ea4216b58a3a0943ec2ab7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099680955
+status: 3
+tags: []
+user_id: sabie

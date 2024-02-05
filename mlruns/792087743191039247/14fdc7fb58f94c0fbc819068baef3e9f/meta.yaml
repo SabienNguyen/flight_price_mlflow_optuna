@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/14fdc7fb58f94c0fbc819068baef3e9f/artifacts
+end_time: 1707099723335
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 14fdc7fb58f94c0fbc819068baef3e9f
+run_name: marvelous-lynx-682
+run_uuid: 14fdc7fb58f94c0fbc819068baef3e9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099722637
+status: 3
+tags: []
+user_id: sabie

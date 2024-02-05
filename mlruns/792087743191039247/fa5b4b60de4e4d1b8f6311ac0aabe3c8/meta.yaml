@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/fa5b4b60de4e4d1b8f6311ac0aabe3c8/artifacts
+end_time: 1707100479081
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: fa5b4b60de4e4d1b8f6311ac0aabe3c8
+run_name: casual-wolf-166
+run_uuid: fa5b4b60de4e4d1b8f6311ac0aabe3c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100477456
+status: 3
+tags: []
+user_id: sabie

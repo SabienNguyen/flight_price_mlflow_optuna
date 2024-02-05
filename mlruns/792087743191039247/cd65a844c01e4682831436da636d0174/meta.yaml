@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/cd65a844c01e4682831436da636d0174/artifacts
+end_time: 1707099986347
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: cd65a844c01e4682831436da636d0174
+run_name: likeable-dolphin-615
+run_uuid: cd65a844c01e4682831436da636d0174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099985738
+status: 3
+tags: []
+user_id: sabie

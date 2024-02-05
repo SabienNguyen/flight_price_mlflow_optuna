@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/7875482b298f4e0ba787b1af7eb41ccf/artifacts
+end_time: 1707100592627
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 7875482b298f4e0ba787b1af7eb41ccf
+run_name: intelligent-hare-976
+run_uuid: 7875482b298f4e0ba787b1af7eb41ccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100591252
+status: 3
+tags: []
+user_id: sabie

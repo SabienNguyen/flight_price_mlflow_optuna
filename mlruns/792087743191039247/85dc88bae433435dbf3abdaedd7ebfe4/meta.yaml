@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/85dc88bae433435dbf3abdaedd7ebfe4/artifacts
+end_time: 1707099756838
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 85dc88bae433435dbf3abdaedd7ebfe4
+run_name: treasured-asp-452
+run_uuid: 85dc88bae433435dbf3abdaedd7ebfe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099755331
+status: 3
+tags: []
+user_id: sabie

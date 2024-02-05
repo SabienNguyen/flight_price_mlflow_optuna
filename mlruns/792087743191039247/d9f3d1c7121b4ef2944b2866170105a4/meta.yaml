@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/d9f3d1c7121b4ef2944b2866170105a4/artifacts
+end_time: 1707099642609
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: d9f3d1c7121b4ef2944b2866170105a4
+run_name: magnificent-pug-398
+run_uuid: d9f3d1c7121b4ef2944b2866170105a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099642015
+status: 3
+tags: []
+user_id: sabie

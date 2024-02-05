@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/6e5e8250b26d41d38c4c54a6e5cdf8af/artifacts
+end_time: 1707099710929
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 6e5e8250b26d41d38c4c54a6e5cdf8af
+run_name: melodic-gull-606
+run_uuid: 6e5e8250b26d41d38c4c54a6e5cdf8af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099709993
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a4204ce358e2489dbd728cdc92123d36/artifacts
+end_time: 1707100691429
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a4204ce358e2489dbd728cdc92123d36
+run_name: salty-dog-156
+run_uuid: a4204ce358e2489dbd728cdc92123d36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100690687
+status: 3
+tags: []
+user_id: sabie

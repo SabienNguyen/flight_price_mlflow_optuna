@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/3bee54e9fc01489ab78a3ed7504a1c7c/artifacts
+end_time: 1707099648891
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 3bee54e9fc01489ab78a3ed7504a1c7c
+run_name: handsome-crane-60
+run_uuid: 3bee54e9fc01489ab78a3ed7504a1c7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099648254
+status: 3
+tags: []
+user_id: sabie

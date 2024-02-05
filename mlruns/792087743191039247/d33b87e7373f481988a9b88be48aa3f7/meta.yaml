@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/d33b87e7373f481988a9b88be48aa3f7/artifacts
+end_time: 1707100221905
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: d33b87e7373f481988a9b88be48aa3f7
+run_name: amazing-sow-653
+run_uuid: d33b87e7373f481988a9b88be48aa3f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100220316
+status: 3
+tags: []
+user_id: sabie

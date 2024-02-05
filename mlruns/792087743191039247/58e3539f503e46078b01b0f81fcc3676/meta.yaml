@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/58e3539f503e46078b01b0f81fcc3676/artifacts
+end_time: 1707099994619
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 58e3539f503e46078b01b0f81fcc3676
+run_name: clean-conch-604
+run_uuid: 58e3539f503e46078b01b0f81fcc3676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099993540
+status: 3
+tags: []
+user_id: sabie

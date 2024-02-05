@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/57051b90cb184a0ea0601e1327b1e399/artifacts
+end_time: 1707100252313
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 57051b90cb184a0ea0601e1327b1e399
+run_name: sassy-gnat-151
+run_uuid: 57051b90cb184a0ea0601e1327b1e399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100250876
+status: 3
+tags: []
+user_id: sabie

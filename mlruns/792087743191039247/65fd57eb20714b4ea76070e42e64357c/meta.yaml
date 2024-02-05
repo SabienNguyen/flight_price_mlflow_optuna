@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/65fd57eb20714b4ea76070e42e64357c/artifacts
+end_time: 1707099662699
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 65fd57eb20714b4ea76070e42e64357c
+run_name: welcoming-fawn-823
+run_uuid: 65fd57eb20714b4ea76070e42e64357c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099661267
+status: 3
+tags: []
+user_id: sabie

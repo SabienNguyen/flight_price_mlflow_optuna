@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/1f599ef341614404a571947c885cc740/artifacts
+end_time: 1707100848240
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 1f599ef341614404a571947c885cc740
+run_name: sincere-bug-929
+run_uuid: 1f599ef341614404a571947c885cc740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100846981
+status: 3
+tags: []
+user_id: sabie

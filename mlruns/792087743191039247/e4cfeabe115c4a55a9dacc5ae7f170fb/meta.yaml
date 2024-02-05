@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/e4cfeabe115c4a55a9dacc5ae7f170fb/artifacts
+end_time: 1707100679770
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: e4cfeabe115c4a55a9dacc5ae7f170fb
+run_name: suave-roo-975
+run_uuid: e4cfeabe115c4a55a9dacc5ae7f170fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100678360
+status: 3
+tags: []
+user_id: sabie

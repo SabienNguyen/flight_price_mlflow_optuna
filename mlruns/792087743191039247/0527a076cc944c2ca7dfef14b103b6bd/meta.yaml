@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/0527a076cc944c2ca7dfef14b103b6bd/artifacts
+end_time: 1707100653939
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 0527a076cc944c2ca7dfef14b103b6bd
+run_name: able-jay-689
+run_uuid: 0527a076cc944c2ca7dfef14b103b6bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100652463
+status: 3
+tags: []
+user_id: sabie

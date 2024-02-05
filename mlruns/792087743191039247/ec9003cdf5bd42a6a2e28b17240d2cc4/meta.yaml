@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ec9003cdf5bd42a6a2e28b17240d2cc4/artifacts
+end_time: 1707100328493
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ec9003cdf5bd42a6a2e28b17240d2cc4
+run_name: lyrical-finch-760
+run_uuid: ec9003cdf5bd42a6a2e28b17240d2cc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100325877
+status: 3
+tags: []
+user_id: sabie

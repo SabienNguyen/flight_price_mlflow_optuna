@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ccaa7128e99449699d44f32fa20f0867/artifacts
+end_time: 1707100736395
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ccaa7128e99449699d44f32fa20f0867
+run_name: sassy-zebra-84
+run_uuid: ccaa7128e99449699d44f32fa20f0867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100734968
+status: 3
+tags: []
+user_id: sabie

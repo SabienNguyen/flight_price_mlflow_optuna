@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/bde1bbf5e9054784ac863bb0189ee38e/artifacts
+end_time: 1707099574767
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: bde1bbf5e9054784ac863bb0189ee38e
+run_name: magnificent-slug-457
+run_uuid: bde1bbf5e9054784ac863bb0189ee38e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099573748
+status: 3
+tags: []
+user_id: sabie

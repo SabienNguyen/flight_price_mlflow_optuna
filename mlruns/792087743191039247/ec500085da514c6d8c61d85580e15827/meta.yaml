@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ec500085da514c6d8c61d85580e15827/artifacts
+end_time: 1707100767357
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ec500085da514c6d8c61d85580e15827
+run_name: grandiose-smelt-774
+run_uuid: ec500085da514c6d8c61d85580e15827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100765570
+status: 3
+tags: []
+user_id: sabie

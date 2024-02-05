@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/3246ad68009e4f12950a454333d05f3e/artifacts
+end_time: 1707100482888
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 3246ad68009e4f12950a454333d05f3e
+run_name: entertaining-cod-538
+run_uuid: 3246ad68009e4f12950a454333d05f3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100481708
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/9817e6bd898241e7a7489e5f701c434e/artifacts
+end_time: 1707099581368
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 9817e6bd898241e7a7489e5f701c434e
+run_name: glamorous-mare-850
+run_uuid: 9817e6bd898241e7a7489e5f701c434e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099580824
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/e4b02abc68674fb2b6995e87d021b54f/artifacts
+end_time: 1707099959093
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: e4b02abc68674fb2b6995e87d021b54f
+run_name: fearless-sloth-425
+run_uuid: e4b02abc68674fb2b6995e87d021b54f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099958244
+status: 3
+tags: []
+user_id: sabie

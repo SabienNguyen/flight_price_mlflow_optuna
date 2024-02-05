@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/81263eaf38f340249f9935d89861aa38/artifacts
+end_time: 1707099112366
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 81263eaf38f340249f9935d89861aa38
+run_name: nosy-zebra-156
+run_uuid: 81263eaf38f340249f9935d89861aa38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099111288
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/4fbea13bc7cb45a6b8f9ffbd18f599f7/artifacts
+end_time: 1707100008205
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 4fbea13bc7cb45a6b8f9ffbd18f599f7
+run_name: respected-hound-436
+run_uuid: 4fbea13bc7cb45a6b8f9ffbd18f599f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100007399
+status: 3
+tags: []
+user_id: sabie

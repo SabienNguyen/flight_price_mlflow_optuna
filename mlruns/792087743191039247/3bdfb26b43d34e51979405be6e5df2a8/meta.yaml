@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/3bdfb26b43d34e51979405be6e5df2a8/artifacts
+end_time: 1707100060591
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 3bdfb26b43d34e51979405be6e5df2a8
+run_name: unleashed-dove-166
+run_uuid: 3bdfb26b43d34e51979405be6e5df2a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100059691
+status: 3
+tags: []
+user_id: sabie

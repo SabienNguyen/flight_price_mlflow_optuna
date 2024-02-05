@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/dcc8146bd42849f19c0b55d96acc180a/artifacts
+end_time: 1707100805870
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: dcc8146bd42849f19c0b55d96acc180a
+run_name: clumsy-stork-851
+run_uuid: dcc8146bd42849f19c0b55d96acc180a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100804898
+status: 3
+tags: []
+user_id: sabie

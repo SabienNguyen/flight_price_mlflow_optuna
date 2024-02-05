@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/29192e991fdc405682c64f1fc100505b/artifacts
+end_time: 1707099894710
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 29192e991fdc405682c64f1fc100505b
+run_name: invincible-seal-149
+run_uuid: 29192e991fdc405682c64f1fc100505b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099894275
+status: 3
+tags: []
+user_id: sabie

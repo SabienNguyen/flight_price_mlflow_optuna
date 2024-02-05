@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/1268b3265c7c481ea5d12e31c05cf3b2/artifacts
+end_time: 1707100325811
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 1268b3265c7c481ea5d12e31c05cf3b2
+run_name: thundering-ox-457
+run_uuid: 1268b3265c7c481ea5d12e31c05cf3b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100323500
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/14658fb9c3ba4762bacbae25759f3b59/artifacts
+end_time: 1707100753403
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 14658fb9c3ba4762bacbae25759f3b59
+run_name: gaudy-frog-293
+run_uuid: 14658fb9c3ba4762bacbae25759f3b59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100751267
+status: 3
+tags: []
+user_id: sabie

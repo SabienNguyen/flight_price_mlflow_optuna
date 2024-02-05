@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/910ea9bb5f274ab68f0bc706d240232e/artifacts
+end_time: 1707100029224
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 910ea9bb5f274ab68f0bc706d240232e
+run_name: zealous-mole-59
+run_uuid: 910ea9bb5f274ab68f0bc706d240232e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100028438
+status: 3
+tags: []
+user_id: sabie

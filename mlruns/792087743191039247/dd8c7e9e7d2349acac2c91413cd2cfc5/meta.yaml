@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/dd8c7e9e7d2349acac2c91413cd2cfc5/artifacts
+end_time: 1707100247488
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: dd8c7e9e7d2349acac2c91413cd2cfc5
+run_name: gentle-kit-309
+run_uuid: dd8c7e9e7d2349acac2c91413cd2cfc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100245871
+status: 3
+tags: []
+user_id: sabie

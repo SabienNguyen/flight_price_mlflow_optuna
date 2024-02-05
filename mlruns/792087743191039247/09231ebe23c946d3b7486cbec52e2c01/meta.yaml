@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/09231ebe23c946d3b7486cbec52e2c01/artifacts
+end_time: 1707099758266
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 09231ebe23c946d3b7486cbec52e2c01
+run_name: nosy-penguin-390
+run_uuid: 09231ebe23c946d3b7486cbec52e2c01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099756873
+status: 3
+tags: []
+user_id: sabie

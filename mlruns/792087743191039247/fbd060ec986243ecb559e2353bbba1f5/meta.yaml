@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/fbd060ec986243ecb559e2353bbba1f5/artifacts
+end_time: 1707099644458
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: fbd060ec986243ecb559e2353bbba1f5
+run_name: resilient-koi-299
+run_uuid: fbd060ec986243ecb559e2353bbba1f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099643567
+status: 3
+tags: []
+user_id: sabie

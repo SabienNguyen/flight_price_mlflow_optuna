@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/7bb489e812774c5c8ee5d1d115107bd4/artifacts
+end_time: 1707099219176
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 7bb489e812774c5c8ee5d1d115107bd4
+run_name: omniscient-fox-125
+run_uuid: 7bb489e812774c5c8ee5d1d115107bd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099218589
+status: 3
+tags: []
+user_id: sabie

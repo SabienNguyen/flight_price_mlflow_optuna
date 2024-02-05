@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/7ce78fa7d15d4b6091e3e71d0d7b02ac/artifacts
+end_time: 1707099564452
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 7ce78fa7d15d4b6091e3e71d0d7b02ac
+run_name: dashing-elk-145
+run_uuid: 7ce78fa7d15d4b6091e3e71d0d7b02ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099563528
+status: 3
+tags: []
+user_id: sabie

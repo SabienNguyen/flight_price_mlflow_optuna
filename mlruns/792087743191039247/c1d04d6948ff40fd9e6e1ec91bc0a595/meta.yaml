@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/c1d04d6948ff40fd9e6e1ec91bc0a595/artifacts
+end_time: 1707100188469
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: c1d04d6948ff40fd9e6e1ec91bc0a595
+run_name: traveling-loon-942
+run_uuid: c1d04d6948ff40fd9e6e1ec91bc0a595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100187957
+status: 3
+tags: []
+user_id: sabie

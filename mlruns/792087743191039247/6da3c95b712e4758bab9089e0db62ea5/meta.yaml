@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/6da3c95b712e4758bab9089e0db62ea5/artifacts
+end_time: 1707099630474
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 6da3c95b712e4758bab9089e0db62ea5
+run_name: dazzling-shoat-830
+run_uuid: 6da3c95b712e4758bab9089e0db62ea5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099629614
+status: 3
+tags: []
+user_id: sabie

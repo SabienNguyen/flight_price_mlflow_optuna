@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/2c3255f87250431fab8a181ac5a22ced/artifacts
+end_time: 1707100765522
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 2c3255f87250431fab8a181ac5a22ced
+run_name: delicate-ape-311
+run_uuid: 2c3255f87250431fab8a181ac5a22ced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100763679
+status: 3
+tags: []
+user_id: sabie

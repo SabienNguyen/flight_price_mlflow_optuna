@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a0a8e4de89d8463ea1399c20347418d9/artifacts
+end_time: 1707100043148
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a0a8e4de89d8463ea1399c20347418d9
+run_name: gifted-shrike-854
+run_uuid: a0a8e4de89d8463ea1399c20347418d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100042397
+status: 3
+tags: []
+user_id: sabie

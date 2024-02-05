@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/e4007cb518cd4508ab3c8dc300927401/artifacts
+end_time: 1707099117148
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: e4007cb518cd4508ab3c8dc300927401
+run_name: bald-yak-53
+run_uuid: e4007cb518cd4508ab3c8dc300927401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099116049
+status: 3
+tags: []
+user_id: sabie

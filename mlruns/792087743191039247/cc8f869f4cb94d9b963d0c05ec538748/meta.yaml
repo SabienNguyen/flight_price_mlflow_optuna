@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/cc8f869f4cb94d9b963d0c05ec538748/artifacts
+end_time: 1707099745785
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: cc8f869f4cb94d9b963d0c05ec538748
+run_name: receptive-grouse-985
+run_uuid: cc8f869f4cb94d9b963d0c05ec538748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099745026
+status: 3
+tags: []
+user_id: sabie

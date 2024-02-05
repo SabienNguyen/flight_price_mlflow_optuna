@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/0fb5104c025d447d83983840947d0705/artifacts
+end_time: 1707099132547
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 0fb5104c025d447d83983840947d0705
+run_name: inquisitive-cow-426
+run_uuid: 0fb5104c025d447d83983840947d0705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099129738
+status: 3
+tags: []
+user_id: sabie

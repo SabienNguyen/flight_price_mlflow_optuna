@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/4905ed19ebe8429fb7c8e0b3194310ad/artifacts
+end_time: 1707100533811
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 4905ed19ebe8429fb7c8e0b3194310ad
+run_name: bedecked-skink-679
+run_uuid: 4905ed19ebe8429fb7c8e0b3194310ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100532140
+status: 3
+tags: []
+user_id: sabie

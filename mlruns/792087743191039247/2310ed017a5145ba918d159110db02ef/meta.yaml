@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/2310ed017a5145ba918d159110db02ef/artifacts
+end_time: 1707100048383
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 2310ed017a5145ba918d159110db02ef
+run_name: masked-ox-81
+run_uuid: 2310ed017a5145ba918d159110db02ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100047326
+status: 3
+tags: []
+user_id: sabie

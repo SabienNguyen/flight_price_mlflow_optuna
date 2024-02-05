@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/37b2a95e00424d9ea440a8edbd63de3d/artifacts
+end_time: 1707100543893
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 37b2a95e00424d9ea440a8edbd63de3d
+run_name: abrasive-bear-260
+run_uuid: 37b2a95e00424d9ea440a8edbd63de3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100542711
+status: 3
+tags: []
+user_id: sabie

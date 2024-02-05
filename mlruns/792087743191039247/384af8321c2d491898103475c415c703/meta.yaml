@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/384af8321c2d491898103475c415c703/artifacts
+end_time: 1707100822199
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 384af8321c2d491898103475c415c703
+run_name: smiling-shrew-217
+run_uuid: 384af8321c2d491898103475c415c703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100820921
+status: 3
+tags: []
+user_id: sabie

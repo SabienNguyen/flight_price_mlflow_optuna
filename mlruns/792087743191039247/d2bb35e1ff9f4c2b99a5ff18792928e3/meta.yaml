@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/d2bb35e1ff9f4c2b99a5ff18792928e3/artifacts
+end_time: 1707100334159
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: d2bb35e1ff9f4c2b99a5ff18792928e3
+run_name: defiant-lark-901
+run_uuid: d2bb35e1ff9f4c2b99a5ff18792928e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100331396
+status: 3
+tags: []
+user_id: sabie

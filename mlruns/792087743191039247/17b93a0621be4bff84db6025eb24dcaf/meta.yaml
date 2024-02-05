@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/17b93a0621be4bff84db6025eb24dcaf/artifacts
+end_time: 1707100423130
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 17b93a0621be4bff84db6025eb24dcaf
+run_name: selective-trout-28
+run_uuid: 17b93a0621be4bff84db6025eb24dcaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100420398
+status: 3
+tags: []
+user_id: sabie

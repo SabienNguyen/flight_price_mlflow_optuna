@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/2457550e70164961b2a57f748b680e6a/artifacts
+end_time: 1707100023687
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 2457550e70164961b2a57f748b680e6a
+run_name: gifted-crane-713
+run_uuid: 2457550e70164961b2a57f748b680e6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100022749
+status: 3
+tags: []
+user_id: sabie

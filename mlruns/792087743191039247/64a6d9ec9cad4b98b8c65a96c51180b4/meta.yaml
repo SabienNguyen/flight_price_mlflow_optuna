@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/64a6d9ec9cad4b98b8c65a96c51180b4/artifacts
+end_time: 1707099782570
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 64a6d9ec9cad4b98b8c65a96c51180b4
+run_name: youthful-bird-663
+run_uuid: 64a6d9ec9cad4b98b8c65a96c51180b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099780872
+status: 3
+tags: []
+user_id: sabie

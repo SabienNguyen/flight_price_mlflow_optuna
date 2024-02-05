@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/119ee260fa1d401f85b7c0e3e039b751/artifacts
+end_time: 1707099749038
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 119ee260fa1d401f85b7c0e3e039b751
+run_name: valuable-wolf-400
+run_uuid: 119ee260fa1d401f85b7c0e3e039b751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099748270
+status: 3
+tags: []
+user_id: sabie

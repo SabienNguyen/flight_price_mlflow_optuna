@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/c25387bc0dc14234a6b07a1d6c71dea5/artifacts
+end_time: 1707100402771
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: c25387bc0dc14234a6b07a1d6c71dea5
+run_name: entertaining-fly-939
+run_uuid: c25387bc0dc14234a6b07a1d6c71dea5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100400549
+status: 3
+tags: []
+user_id: sabie

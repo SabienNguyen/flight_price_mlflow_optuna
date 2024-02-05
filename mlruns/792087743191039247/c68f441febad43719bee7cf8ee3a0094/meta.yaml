@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/c68f441febad43719bee7cf8ee3a0094/artifacts
+end_time: 1707099209453
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: c68f441febad43719bee7cf8ee3a0094
+run_name: amazing-moose-135
+run_uuid: c68f441febad43719bee7cf8ee3a0094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099208891
+status: 3
+tags: []
+user_id: sabie

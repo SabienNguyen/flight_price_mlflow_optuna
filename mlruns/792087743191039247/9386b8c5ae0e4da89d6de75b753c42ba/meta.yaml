@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/9386b8c5ae0e4da89d6de75b753c42ba/artifacts
+end_time: 1707100193764
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 9386b8c5ae0e4da89d6de75b753c42ba
+run_name: powerful-grouse-593
+run_uuid: 9386b8c5ae0e4da89d6de75b753c42ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100193157
+status: 3
+tags: []
+user_id: sabie

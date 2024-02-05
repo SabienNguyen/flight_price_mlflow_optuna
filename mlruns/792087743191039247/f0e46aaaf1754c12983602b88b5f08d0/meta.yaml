@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/f0e46aaaf1754c12983602b88b5f08d0/artifacts
+end_time: 1707100220265
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: f0e46aaaf1754c12983602b88b5f08d0
+run_name: blushing-fowl-417
+run_uuid: f0e46aaaf1754c12983602b88b5f08d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100218706
+status: 3
+tags: []
+user_id: sabie

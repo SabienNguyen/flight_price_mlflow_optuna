@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/118796a222a0426fac40c86dd2b14e03/artifacts
+end_time: 1707100067124
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 118796a222a0426fac40c86dd2b14e03
+run_name: charming-bug-654
+run_uuid: 118796a222a0426fac40c86dd2b14e03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100065933
+status: 3
+tags: []
+user_id: sabie

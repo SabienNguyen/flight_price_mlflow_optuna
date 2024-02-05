@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/5062db9c168f478788fae520d603663e/artifacts
+end_time: 1707100071950
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 5062db9c168f478788fae520d603663e
+run_name: amusing-eel-612
+run_uuid: 5062db9c168f478788fae520d603663e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100070452
+status: 3
+tags: []
+user_id: sabie

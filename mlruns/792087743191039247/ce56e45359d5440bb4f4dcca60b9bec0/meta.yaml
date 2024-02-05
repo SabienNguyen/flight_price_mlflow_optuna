@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ce56e45359d5440bb4f4dcca60b9bec0/artifacts
+end_time: 1707099192473
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ce56e45359d5440bb4f4dcca60b9bec0
+run_name: nosy-hen-26
+run_uuid: ce56e45359d5440bb4f4dcca60b9bec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099191661
+status: 3
+tags: []
+user_id: sabie

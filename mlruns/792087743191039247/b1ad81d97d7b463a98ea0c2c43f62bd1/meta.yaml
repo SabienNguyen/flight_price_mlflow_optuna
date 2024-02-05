@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/b1ad81d97d7b463a98ea0c2c43f62bd1/artifacts
+end_time: 1707099923460
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: b1ad81d97d7b463a98ea0c2c43f62bd1
+run_name: rambunctious-hen-888
+run_uuid: b1ad81d97d7b463a98ea0c2c43f62bd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099921995
+status: 3
+tags: []
+user_id: sabie

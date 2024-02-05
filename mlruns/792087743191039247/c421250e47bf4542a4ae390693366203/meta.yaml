@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/c421250e47bf4542a4ae390693366203/artifacts
+end_time: 1707100715869
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: c421250e47bf4542a4ae390693366203
+run_name: victorious-boar-733
+run_uuid: c421250e47bf4542a4ae390693366203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100714480
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/d98240de665f422d84bbcc5ed1bc34ef/artifacts
+end_time: 1707099747423
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: d98240de665f422d84bbcc5ed1bc34ef
+run_name: angry-goose-801
+run_uuid: d98240de665f422d84bbcc5ed1bc34ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099746616
+status: 3
+tags: []
+user_id: sabie

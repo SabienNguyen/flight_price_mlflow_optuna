@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/206aa828648f4d5f84b3ec4959b3477b/artifacts
+end_time: 1707100711556
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 206aa828648f4d5f84b3ec4959b3477b
+run_name: overjoyed-rat-543
+run_uuid: 206aa828648f4d5f84b3ec4959b3477b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100710189
+status: 3
+tags: []
+user_id: sabie

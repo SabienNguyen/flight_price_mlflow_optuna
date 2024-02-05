@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/577bf8a0712f4bb2a00c0a71c7bc0ca9/artifacts
+end_time: 1707100331344
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 577bf8a0712f4bb2a00c0a71c7bc0ca9
+run_name: wistful-seal-598
+run_uuid: 577bf8a0712f4bb2a00c0a71c7bc0ca9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100328542
+status: 3
+tags: []
+user_id: sabie

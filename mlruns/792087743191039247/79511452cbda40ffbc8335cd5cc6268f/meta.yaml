@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/79511452cbda40ffbc8335cd5cc6268f/artifacts
+end_time: 1707100741866
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 79511452cbda40ffbc8335cd5cc6268f
+run_name: capricious-carp-602
+run_uuid: 79511452cbda40ffbc8335cd5cc6268f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100740295
+status: 3
+tags: []
+user_id: sabie

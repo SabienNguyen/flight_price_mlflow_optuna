@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/6b357ea8b52e42dbb911f83cef52ca8e/artifacts
+end_time: 1707099760469
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 6b357ea8b52e42dbb911f83cef52ca8e
+run_name: wise-rook-652
+run_uuid: 6b357ea8b52e42dbb911f83cef52ca8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099759144
+status: 3
+tags: []
+user_id: sabie

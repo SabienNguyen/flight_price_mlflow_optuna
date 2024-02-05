@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/25dd5e6dbad04f10aef08fa18d6d4498/artifacts
+end_time: 1707099883407
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 25dd5e6dbad04f10aef08fa18d6d4498
+run_name: exultant-perch-638
+run_uuid: 25dd5e6dbad04f10aef08fa18d6d4498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099882282
+status: 3
+tags: []
+user_id: sabie

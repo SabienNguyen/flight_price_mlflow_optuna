@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/70a0f61999404489807bb1b112706888/artifacts
+end_time: 1707100636632
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 70a0f61999404489807bb1b112706888
+run_name: dapper-ray-971
+run_uuid: 70a0f61999404489807bb1b112706888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100635199
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a1fb83c06e314c58a1e8effc4b4b9711/artifacts
+end_time: 1707099173569
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a1fb83c06e314c58a1e8effc4b4b9711
+run_name: blushing-sloth-658
+run_uuid: a1fb83c06e314c58a1e8effc4b4b9711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099172140
+status: 3
+tags: []
+user_id: sabie

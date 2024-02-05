@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ed84e830a2eb48de901552bac58bdfa5/artifacts
+end_time: 1707099623700
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ed84e830a2eb48de901552bac58bdfa5
+run_name: sassy-moose-951
+run_uuid: ed84e830a2eb48de901552bac58bdfa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099622540
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/c6b77d9828844d2db0f34a2e763c4b34/artifacts
+end_time: 1707100644073
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: c6b77d9828844d2db0f34a2e763c4b34
+run_name: burly-toad-165
+run_uuid: c6b77d9828844d2db0f34a2e763c4b34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100641868
+status: 3
+tags: []
+user_id: sabie

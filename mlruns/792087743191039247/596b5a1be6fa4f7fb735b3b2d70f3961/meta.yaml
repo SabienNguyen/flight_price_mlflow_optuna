@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/596b5a1be6fa4f7fb735b3b2d70f3961/artifacts
+end_time: 1707099590611
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 596b5a1be6fa4f7fb735b3b2d70f3961
+run_name: dazzling-ray-237
+run_uuid: 596b5a1be6fa4f7fb735b3b2d70f3961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099590063
+status: 3
+tags: []
+user_id: sabie

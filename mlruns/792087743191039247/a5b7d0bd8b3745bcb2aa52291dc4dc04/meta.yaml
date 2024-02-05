@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a5b7d0bd8b3745bcb2aa52291dc4dc04/artifacts
+end_time: 1707099809620
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a5b7d0bd8b3745bcb2aa52291dc4dc04
+run_name: defiant-worm-11
+run_uuid: a5b7d0bd8b3745bcb2aa52291dc4dc04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099808521
+status: 3
+tags: []
+user_id: sabie

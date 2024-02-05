@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/98b4943a3fbd472c9973867e2b1809ca/artifacts
+end_time: 1707099992600
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 98b4943a3fbd472c9973867e2b1809ca
+run_name: polite-quail-705
+run_uuid: 98b4943a3fbd472c9973867e2b1809ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099991793
+status: 3
+tags: []
+user_id: sabie

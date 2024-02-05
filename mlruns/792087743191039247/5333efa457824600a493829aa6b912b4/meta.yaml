@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/5333efa457824600a493829aa6b912b4/artifacts
+end_time: 1707100635135
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 5333efa457824600a493829aa6b912b4
+run_name: rogue-vole-522
+run_uuid: 5333efa457824600a493829aa6b912b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100633356
+status: 3
+tags: []
+user_id: sabie

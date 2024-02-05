@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ae6e30d3de744e04a898701c738f3c57/artifacts
+end_time: 1707100831774
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ae6e30d3de744e04a898701c738f3c57
+run_name: adorable-owl-875
+run_uuid: ae6e30d3de744e04a898701c738f3c57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100830701
+status: 3
+tags: []
+user_id: sabie

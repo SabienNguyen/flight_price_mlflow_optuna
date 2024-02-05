@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/e0007b293d974a2e9f4036cc194506db/artifacts
+end_time: 1707099566612
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: e0007b293d974a2e9f4036cc194506db
+run_name: traveling-boar-966
+run_uuid: e0007b293d974a2e9f4036cc194506db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099565770
+status: 3
+tags: []
+user_id: sabie

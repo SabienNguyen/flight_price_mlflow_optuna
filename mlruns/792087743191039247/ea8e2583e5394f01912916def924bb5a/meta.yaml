@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ea8e2583e5394f01912916def924bb5a/artifacts
+end_time: 1707099739871
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ea8e2583e5394f01912916def924bb5a
+run_name: honorable-perch-636
+run_uuid: ea8e2583e5394f01912916def924bb5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099739098
+status: 3
+tags: []
+user_id: sabie

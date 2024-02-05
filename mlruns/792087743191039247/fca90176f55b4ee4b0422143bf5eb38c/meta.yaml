@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/fca90176f55b4ee4b0422143bf5eb38c/artifacts
+end_time: 1707099729070
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: fca90176f55b4ee4b0422143bf5eb38c
+run_name: flawless-lamb-492
+run_uuid: fca90176f55b4ee4b0422143bf5eb38c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099728175
+status: 3
+tags: []
+user_id: sabie

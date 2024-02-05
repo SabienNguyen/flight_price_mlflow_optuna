@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/c9e210de156c4ee9a552847c4fc9e412/artifacts
+end_time: 1707100198076
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: c9e210de156c4ee9a552847c4fc9e412
+run_name: delicate-grouse-155
+run_uuid: c9e210de156c4ee9a552847c4fc9e412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100197601
+status: 3
+tags: []
+user_id: sabie

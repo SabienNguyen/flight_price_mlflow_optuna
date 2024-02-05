@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/4af0ae514a9c496fb4694a32a1b3d08c/artifacts
+end_time: 1707099463434
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 4af0ae514a9c496fb4694a32a1b3d08c
+run_name: enthused-stag-921
+run_uuid: 4af0ae514a9c496fb4694a32a1b3d08c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099462217
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/5d50fb779168477d8903b259db5a0d4e/artifacts
+end_time: 1707099214302
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 5d50fb779168477d8903b259db5a0d4e
+run_name: upbeat-pug-284
+run_uuid: 5d50fb779168477d8903b259db5a0d4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099213855
+status: 3
+tags: []
+user_id: sabie

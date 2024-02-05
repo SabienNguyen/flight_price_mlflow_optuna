@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/d66140f0dba843a9a2ceeba257bcc678/artifacts
+end_time: 1707099053121
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: d66140f0dba843a9a2ceeba257bcc678
+run_name: calm-conch-659
+run_uuid: d66140f0dba843a9a2ceeba257bcc678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099052359
+status: 3
+tags: []
+user_id: sabie

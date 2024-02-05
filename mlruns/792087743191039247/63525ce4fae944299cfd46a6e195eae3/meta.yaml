@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/63525ce4fae944299cfd46a6e195eae3/artifacts
+end_time: 1707100506247
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 63525ce4fae944299cfd46a6e195eae3
+run_name: worried-finch-92
+run_uuid: 63525ce4fae944299cfd46a6e195eae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100505055
+status: 3
+tags: []
+user_id: sabie

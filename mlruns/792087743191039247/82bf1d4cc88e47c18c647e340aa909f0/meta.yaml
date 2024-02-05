@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/82bf1d4cc88e47c18c647e340aa909f0/artifacts
+end_time: 1707099195841
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 82bf1d4cc88e47c18c647e340aa909f0
+run_name: serious-wolf-214
+run_uuid: 82bf1d4cc88e47c18c647e340aa909f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099195015
+status: 3
+tags: []
+user_id: sabie

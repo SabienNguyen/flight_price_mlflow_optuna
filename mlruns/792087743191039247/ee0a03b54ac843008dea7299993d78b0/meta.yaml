@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ee0a03b54ac843008dea7299993d78b0/artifacts
+end_time: 1707099995853
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ee0a03b54ac843008dea7299993d78b0
+run_name: fearless-lynx-869
+run_uuid: ee0a03b54ac843008dea7299993d78b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099995192
+status: 3
+tags: []
+user_id: sabie

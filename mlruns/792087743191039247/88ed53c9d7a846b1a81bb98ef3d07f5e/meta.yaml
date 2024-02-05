@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/88ed53c9d7a846b1a81bb98ef3d07f5e/artifacts
+end_time: 1707099737403
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 88ed53c9d7a846b1a81bb98ef3d07f5e
+run_name: crawling-tern-267
+run_uuid: 88ed53c9d7a846b1a81bb98ef3d07f5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099736660
+status: 3
+tags: []
+user_id: sabie

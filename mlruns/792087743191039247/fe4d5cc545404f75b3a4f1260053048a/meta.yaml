@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/fe4d5cc545404f75b3a4f1260053048a/artifacts
+end_time: 1707099604091
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: fe4d5cc545404f75b3a4f1260053048a
+run_name: valuable-grub-615
+run_uuid: fe4d5cc545404f75b3a4f1260053048a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099602952
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/6a904d8af3f54940a0f074ace8dede4d/artifacts
+end_time: 1707099456204
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 6a904d8af3f54940a0f074ace8dede4d
+run_name: nimble-mole-940
+run_uuid: 6a904d8af3f54940a0f074ace8dede4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099455454
+status: 3
+tags: []
+user_id: sabie

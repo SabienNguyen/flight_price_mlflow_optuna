@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/6eaf4c4ff8ad41afb5b0dc0393a9b6db/artifacts
+end_time: 1707100676836
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 6eaf4c4ff8ad41afb5b0dc0393a9b6db
+run_name: big-fowl-961
+run_uuid: 6eaf4c4ff8ad41afb5b0dc0393a9b6db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100675850
+status: 3
+tags: []
+user_id: sabie

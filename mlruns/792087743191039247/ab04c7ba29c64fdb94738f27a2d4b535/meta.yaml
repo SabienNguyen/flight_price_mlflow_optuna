@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ab04c7ba29c64fdb94738f27a2d4b535/artifacts
+end_time: 1707099666938
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ab04c7ba29c64fdb94738f27a2d4b535
+run_name: nervous-shark-392
+run_uuid: ab04c7ba29c64fdb94738f27a2d4b535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099665834
+status: 3
+tags: []
+user_id: sabie

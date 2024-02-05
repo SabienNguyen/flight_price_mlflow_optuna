@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/91466f32e1d3455e90d1bf99125f9a8d/artifacts
+end_time: 1707099580795
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 91466f32e1d3455e90d1bf99125f9a8d
+run_name: silent-rat-534
+run_uuid: 91466f32e1d3455e90d1bf99125f9a8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099580064
+status: 3
+tags: []
+user_id: sabie

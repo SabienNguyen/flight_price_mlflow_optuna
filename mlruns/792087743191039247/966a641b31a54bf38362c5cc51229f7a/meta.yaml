@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/966a641b31a54bf38362c5cc51229f7a/artifacts
+end_time: 1707099890256
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 966a641b31a54bf38362c5cc51229f7a
+run_name: dashing-ox-96
+run_uuid: 966a641b31a54bf38362c5cc51229f7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099889536
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/3ecb1c148e8f4e8dbc036e10af2066ec/artifacts
+end_time: 1707100431085
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 3ecb1c148e8f4e8dbc036e10af2066ec
+run_name: learned-trout-783
+run_uuid: 3ecb1c148e8f4e8dbc036e10af2066ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100428883
+status: 3
+tags: []
+user_id: sabie

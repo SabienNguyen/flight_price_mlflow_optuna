@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/27786c2b42ef4619b2bf14f6fa3c884e/artifacts
+end_time: 1707100166212
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 27786c2b42ef4619b2bf14f6fa3c884e
+run_name: sincere-roo-344
+run_uuid: 27786c2b42ef4619b2bf14f6fa3c884e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100165765
+status: 3
+tags: []
+user_id: sabie

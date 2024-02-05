@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/c2292c6e71d34e2db9df235a42dbc948/artifacts
+end_time: 1707100034123
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: c2292c6e71d34e2db9df235a42dbc948
+run_name: bouncy-frog-805
+run_uuid: c2292c6e71d34e2db9df235a42dbc948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100033264
+status: 3
+tags: []
+user_id: sabie

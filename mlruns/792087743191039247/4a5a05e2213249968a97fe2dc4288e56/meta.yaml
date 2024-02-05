@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/4a5a05e2213249968a97fe2dc4288e56/artifacts
+end_time: 1707099053564
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 4a5a05e2213249968a97fe2dc4288e56
+run_name: melodic-donkey-546
+run_uuid: 4a5a05e2213249968a97fe2dc4288e56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099053142
+status: 3
+tags: []
+user_id: sabie

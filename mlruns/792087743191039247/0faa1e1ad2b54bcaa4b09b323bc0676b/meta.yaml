@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/0faa1e1ad2b54bcaa4b09b323bc0676b/artifacts
+end_time: 1707099199869
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 0faa1e1ad2b54bcaa4b09b323bc0676b
+run_name: valuable-crow-880
+run_uuid: 0faa1e1ad2b54bcaa4b09b323bc0676b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099199125
+status: 3
+tags: []
+user_id: sabie

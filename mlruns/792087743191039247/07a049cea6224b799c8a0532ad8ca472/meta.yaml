@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/07a049cea6224b799c8a0532ad8ca472/artifacts
+end_time: 1707099615317
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 07a049cea6224b799c8a0532ad8ca472
+run_name: luminous-lark-173
+run_uuid: 07a049cea6224b799c8a0532ad8ca472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099614360
+status: 3
+tags: []
+user_id: sabie

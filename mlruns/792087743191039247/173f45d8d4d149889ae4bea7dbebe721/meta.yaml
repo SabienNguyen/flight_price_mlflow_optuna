@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/173f45d8d4d149889ae4bea7dbebe721/artifacts
+end_time: 1707099181075
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 173f45d8d4d149889ae4bea7dbebe721
+run_name: sassy-mouse-204
+run_uuid: 173f45d8d4d149889ae4bea7dbebe721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099180618
+status: 3
+tags: []
+user_id: sabie

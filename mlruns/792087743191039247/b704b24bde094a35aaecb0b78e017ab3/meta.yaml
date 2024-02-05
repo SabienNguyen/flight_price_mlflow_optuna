@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/b704b24bde094a35aaecb0b78e017ab3/artifacts
+end_time: 1707100684820
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: b704b24bde094a35aaecb0b78e017ab3
+run_name: unequaled-mink-911
+run_uuid: b704b24bde094a35aaecb0b78e017ab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100683648
+status: 3
+tags: []
+user_id: sabie

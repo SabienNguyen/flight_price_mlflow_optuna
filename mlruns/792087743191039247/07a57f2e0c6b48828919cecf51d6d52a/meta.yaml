@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/07a57f2e0c6b48828919cecf51d6d52a/artifacts
+end_time: 1707099614323
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 07a57f2e0c6b48828919cecf51d6d52a
+run_name: powerful-eel-5
+run_uuid: 07a57f2e0c6b48828919cecf51d6d52a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099613643
+status: 3
+tags: []
+user_id: sabie

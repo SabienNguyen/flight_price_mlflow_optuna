@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/48d9c0f58ba6443b8a7a5cfa980fd351/artifacts
+end_time: 1707100434154
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 48d9c0f58ba6443b8a7a5cfa980fd351
+run_name: capable-dog-73
+run_uuid: 48d9c0f58ba6443b8a7a5cfa980fd351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100431152
+status: 3
+tags: []
+user_id: sabie

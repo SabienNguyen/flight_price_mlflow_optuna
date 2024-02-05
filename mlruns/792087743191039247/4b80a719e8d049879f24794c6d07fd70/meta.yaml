@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/4b80a719e8d049879f24794c6d07fd70/artifacts
+end_time: 1707100609576
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 4b80a719e8d049879f24794c6d07fd70
+run_name: stylish-cow-268
+run_uuid: 4b80a719e8d049879f24794c6d07fd70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100606750
+status: 3
+tags: []
+user_id: sabie

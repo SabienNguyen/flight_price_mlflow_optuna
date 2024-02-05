@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/cbc760d5f067443999c3019da0584e18/artifacts
+end_time: 1707099125846
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: cbc760d5f067443999c3019da0584e18
+run_name: capable-cub-245
+run_uuid: cbc760d5f067443999c3019da0584e18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099124320
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,48 @@
+artifact_path: model
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.11.2
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.core.Booster
+    model_format: ubj
+    xgb_version: 2.0.3
+metadata:
+  model_data_version: 1
+mlflow_version: 2.10.0
+model_size_bytes: 334653
+model_uuid: 297a6f7854ea40fa8bcd099101b23e83
+run_id: 09b277055d1a464ab7ffaed5ef46da8e
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"type": "integer", "name": "departure_time", "required": true}, {"type":
+    "integer", "name": "stops", "required": true}, {"type": "integer", "name": "arrival_time",
+    "required": true}, {"type": "integer", "name": "class", "required": true}, {"type":
+    "double", "name": "duration", "required": true}, {"type": "long", "name": "days_left",
+    "required": true}, {"type": "double", "name": "destination_city_Bangalore", "required":
+    true}, {"type": "double", "name": "destination_city_Chennai", "required": true},
+    {"type": "double", "name": "destination_city_Delhi", "required": true}, {"type":
+    "double", "name": "destination_city_Hyderabad", "required": true}, {"type": "double",
+    "name": "destination_city_Kolkata", "required": true}, {"type": "double", "name":
+    "destination_city_Mumbai", "required": true}, {"type": "double", "name": "source_city_Bangalore",
+    "required": true}, {"type": "double", "name": "source_city_Chennai", "required":
+    true}, {"type": "double", "name": "source_city_Delhi", "required": true}, {"type":
+    "double", "name": "source_city_Hyderabad", "required": true}, {"type": "double",
+    "name": "source_city_Kolkata", "required": true}, {"type": "double", "name": "source_city_Mumbai",
+    "required": true}, {"type": "double", "name": "airline_AirAsia", "required": true},
+    {"type": "double", "name": "airline_Air_India", "required": true}, {"type": "double",
+    "name": "airline_GO_FIRST", "required": true}, {"type": "double", "name": "airline_Indigo",
+    "required": true}, {"type": "double", "name": "airline_SpiceJet", "required":
+    true}, {"type": "double", "name": "airline_Vistara", "required": true}]'
+  outputs: '[{"type": "float", "required": true}]'
+  params: null
+utc_time_created: '2024-02-05 02:40:51.788701'

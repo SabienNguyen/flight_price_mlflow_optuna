@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/3e5892a43252470bba7b746188812f25/artifacts
+end_time: 1707099157499
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 3e5892a43252470bba7b746188812f25
+run_name: grandiose-wren-432
+run_uuid: 3e5892a43252470bba7b746188812f25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099156687
+status: 3
+tags: []
+user_id: sabie

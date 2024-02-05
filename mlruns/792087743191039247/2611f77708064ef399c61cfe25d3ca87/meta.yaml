@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/2611f77708064ef399c61cfe25d3ca87/artifacts
+end_time: 1707099775559
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 2611f77708064ef399c61cfe25d3ca87
+run_name: exultant-bug-203
+run_uuid: 2611f77708064ef399c61cfe25d3ca87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099773442
+status: 3
+tags: []
+user_id: sabie

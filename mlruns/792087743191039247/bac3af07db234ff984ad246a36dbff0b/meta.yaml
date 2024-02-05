@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/bac3af07db234ff984ad246a36dbff0b/artifacts
+end_time: 1707099842786
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: bac3af07db234ff984ad246a36dbff0b
+run_name: illustrious-ox-682
+run_uuid: bac3af07db234ff984ad246a36dbff0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099840725
+status: 3
+tags: []
+user_id: sabie

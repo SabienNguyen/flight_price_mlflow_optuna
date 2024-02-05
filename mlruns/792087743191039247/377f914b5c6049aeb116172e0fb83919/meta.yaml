@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/377f914b5c6049aeb116172e0fb83919/artifacts
+end_time: 1707100311768
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 377f914b5c6049aeb116172e0fb83919
+run_name: spiffy-bee-164
+run_uuid: 377f914b5c6049aeb116172e0fb83919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100309382
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/bd65ab8ac2b349c4ba8a3e7e9afc8728/artifacts
+end_time: 1707100198895
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: bd65ab8ac2b349c4ba8a3e7e9afc8728
+run_name: adaptable-ox-828
+run_uuid: bd65ab8ac2b349c4ba8a3e7e9afc8728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100198104
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/619d228723474d73b2be4aee8911b061/artifacts
+end_time: 1707099445933
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 619d228723474d73b2be4aee8911b061
+run_name: defiant-shrew-905
+run_uuid: 619d228723474d73b2be4aee8911b061
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099443640
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/cbd149b128f6437da827df84abd68111/artifacts
+end_time: 1707099689967
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: cbd149b128f6437da827df84abd68111
+run_name: burly-wolf-466
+run_uuid: cbd149b128f6437da827df84abd68111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099689253
+status: 3
+tags: []
+user_id: sabie

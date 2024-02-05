@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/9fadce37e21345afbf2da4d3a2a80ce3/artifacts
+end_time: 1707099911690
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 9fadce37e21345afbf2da4d3a2a80ce3
+run_name: wistful-whale-306
+run_uuid: 9fadce37e21345afbf2da4d3a2a80ce3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099911027
+status: 3
+tags: []
+user_id: sabie

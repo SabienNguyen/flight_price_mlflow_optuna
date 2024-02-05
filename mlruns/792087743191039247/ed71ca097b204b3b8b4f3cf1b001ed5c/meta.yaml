@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ed71ca097b204b3b8b4f3cf1b001ed5c/artifacts
+end_time: 1707100186045
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ed71ca097b204b3b8b4f3cf1b001ed5c
+run_name: enthused-carp-737
+run_uuid: ed71ca097b204b3b8b4f3cf1b001ed5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100185529
+status: 3
+tags: []
+user_id: sabie

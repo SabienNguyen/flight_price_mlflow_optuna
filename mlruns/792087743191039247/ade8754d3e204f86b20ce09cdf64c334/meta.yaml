@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ade8754d3e204f86b20ce09cdf64c334/artifacts
+end_time: 1707099980213
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ade8754d3e204f86b20ce09cdf64c334
+run_name: dazzling-crab-519
+run_uuid: ade8754d3e204f86b20ce09cdf64c334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099979178
+status: 3
+tags: []
+user_id: sabie

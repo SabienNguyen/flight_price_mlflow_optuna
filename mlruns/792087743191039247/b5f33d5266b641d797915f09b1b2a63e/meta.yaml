@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/b5f33d5266b641d797915f09b1b2a63e/artifacts
+end_time: 1707100205103
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: b5f33d5266b641d797915f09b1b2a63e
+run_name: burly-panda-516
+run_uuid: b5f33d5266b641d797915f09b1b2a63e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100204027
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/e2af864046ef409594e32f68628420d0/artifacts
+end_time: 1707100237819
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: e2af864046ef409594e32f68628420d0
+run_name: abundant-dove-203
+run_uuid: e2af864046ef409594e32f68628420d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100236405
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/747d35d75a7a48b1b0a5cbdeb744f4bd/artifacts
+end_time: 1707099693237
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 747d35d75a7a48b1b0a5cbdeb744f4bd
+run_name: youthful-bat-534
+run_uuid: 747d35d75a7a48b1b0a5cbdeb744f4bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099692236
+status: 3
+tags: []
+user_id: sabie

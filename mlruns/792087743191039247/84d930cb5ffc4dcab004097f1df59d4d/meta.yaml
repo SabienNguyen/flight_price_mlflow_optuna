@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/84d930cb5ffc4dcab004097f1df59d4d/artifacts
+end_time: 1707100373827
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 84d930cb5ffc4dcab004097f1df59d4d
+run_name: grandiose-cat-624
+run_uuid: 84d930cb5ffc4dcab004097f1df59d4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100372359
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/baf19cc2bb734d2f9663050cc0e21242/artifacts
+end_time: 1707100604281
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: baf19cc2bb734d2f9663050cc0e21242
+run_name: gaudy-ray-469
+run_uuid: baf19cc2bb734d2f9663050cc0e21242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100601836
+status: 3
+tags: []
+user_id: sabie

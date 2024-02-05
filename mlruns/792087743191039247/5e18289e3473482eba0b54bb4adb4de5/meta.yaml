@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/5e18289e3473482eba0b54bb4adb4de5/artifacts
+end_time: 1707100166732
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 5e18289e3473482eba0b54bb4adb4de5
+run_name: youthful-skunk-834
+run_uuid: 5e18289e3473482eba0b54bb4adb4de5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100166241
+status: 3
+tags: []
+user_id: sabie

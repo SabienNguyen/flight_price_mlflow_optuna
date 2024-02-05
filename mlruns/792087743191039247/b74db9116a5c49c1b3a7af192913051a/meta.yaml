@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/b74db9116a5c49c1b3a7af192913051a/artifacts
+end_time: 1707100462055
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: b74db9116a5c49c1b3a7af192913051a
+run_name: righteous-sponge-528
+run_uuid: b74db9116a5c49c1b3a7af192913051a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100460992
+status: 3
+tags: []
+user_id: sabie

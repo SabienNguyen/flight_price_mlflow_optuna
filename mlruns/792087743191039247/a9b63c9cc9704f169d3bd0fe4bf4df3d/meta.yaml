@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a9b63c9cc9704f169d3bd0fe4bf4df3d/artifacts
+end_time: 1707100290997
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a9b63c9cc9704f169d3bd0fe4bf4df3d
+run_name: efficient-smelt-456
+run_uuid: a9b63c9cc9704f169d3bd0fe4bf4df3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100288425
+status: 3
+tags: []
+user_id: sabie

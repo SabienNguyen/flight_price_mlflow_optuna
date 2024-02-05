@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/63d5060eb5d9423ab64e7a79e3477592/artifacts
+end_time: 1707099635846
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 63d5060eb5d9423ab64e7a79e3477592
+run_name: glamorous-swan-689
+run_uuid: 63d5060eb5d9423ab64e7a79e3477592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099634792
+status: 3
+tags: []
+user_id: sabie

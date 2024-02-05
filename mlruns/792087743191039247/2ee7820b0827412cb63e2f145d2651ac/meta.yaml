@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/2ee7820b0827412cb63e2f145d2651ac/artifacts
+end_time: 1707099602923
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 2ee7820b0827412cb63e2f145d2651ac
+run_name: dapper-tern-10
+run_uuid: 2ee7820b0827412cb63e2f145d2651ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099601766
+status: 3
+tags: []
+user_id: sabie

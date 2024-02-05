@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/0c072aef54624d9fa4446451ee97e93d/artifacts
+end_time: 1707099651404
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 0c072aef54624d9fa4446451ee97e93d
+run_name: welcoming-moose-495
+run_uuid: 0c072aef54624d9fa4446451ee97e93d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099650347
+status: 3
+tags: []
+user_id: sabie

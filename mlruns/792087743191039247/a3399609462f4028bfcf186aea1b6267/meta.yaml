@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a3399609462f4028bfcf186aea1b6267/artifacts
+end_time: 1707100808886
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a3399609462f4028bfcf186aea1b6267
+run_name: judicious-hawk-895
+run_uuid: a3399609462f4028bfcf186aea1b6267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100807818
+status: 3
+tags: []
+user_id: sabie

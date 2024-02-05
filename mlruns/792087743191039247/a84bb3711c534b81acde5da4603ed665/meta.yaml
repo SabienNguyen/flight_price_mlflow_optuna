@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a84bb3711c534b81acde5da4603ed665/artifacts
+end_time: 1707099709964
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a84bb3711c534b81acde5da4603ed665
+run_name: painted-perch-5
+run_uuid: a84bb3711c534b81acde5da4603ed665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099709163
+status: 3
+tags: []
+user_id: sabie

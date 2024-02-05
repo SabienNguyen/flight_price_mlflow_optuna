@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/774d282ab4b6441b908bbb220697648e/artifacts
+end_time: 1707099704928
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 774d282ab4b6441b908bbb220697648e
+run_name: useful-mouse-897
+run_uuid: 774d282ab4b6441b908bbb220697648e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099704104
+status: 3
+tags: []
+user_id: sabie

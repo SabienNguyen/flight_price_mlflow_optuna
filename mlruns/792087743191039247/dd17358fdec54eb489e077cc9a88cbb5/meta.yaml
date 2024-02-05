@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/dd17358fdec54eb489e077cc9a88cbb5/artifacts
+end_time: 1707099721042
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: dd17358fdec54eb489e077cc9a88cbb5
+run_name: debonair-crane-52
+run_uuid: dd17358fdec54eb489e077cc9a88cbb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099720328
+status: 3
+tags: []
+user_id: sabie

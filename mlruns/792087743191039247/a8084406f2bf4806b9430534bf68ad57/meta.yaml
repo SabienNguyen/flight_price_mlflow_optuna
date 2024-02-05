@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a8084406f2bf4806b9430534bf68ad57/artifacts
+end_time: 1707100342736
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a8084406f2bf4806b9430534bf68ad57
+run_name: likeable-fox-184
+run_uuid: a8084406f2bf4806b9430534bf68ad57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100341159
+status: 3
+tags: []
+user_id: sabie

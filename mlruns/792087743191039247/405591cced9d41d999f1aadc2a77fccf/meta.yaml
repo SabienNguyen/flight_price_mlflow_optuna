@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/405591cced9d41d999f1aadc2a77fccf/artifacts
+end_time: 1707099452620
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 405591cced9d41d999f1aadc2a77fccf
+run_name: delightful-quail-141
+run_uuid: 405591cced9d41d999f1aadc2a77fccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099451620
+status: 3
+tags: []
+user_id: sabie

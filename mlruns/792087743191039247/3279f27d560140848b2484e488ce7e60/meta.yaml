@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/3279f27d560140848b2484e488ce7e60/artifacts
+end_time: 1707099103899
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 3279f27d560140848b2484e488ce7e60
+run_name: mercurial-shark-75
+run_uuid: 3279f27d560140848b2484e488ce7e60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099102979
+status: 3
+tags: []
+user_id: sabie

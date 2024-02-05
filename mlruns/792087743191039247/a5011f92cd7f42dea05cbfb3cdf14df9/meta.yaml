@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a5011f92cd7f42dea05cbfb3cdf14df9/artifacts
+end_time: 1707099991765
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a5011f92cd7f42dea05cbfb3cdf14df9
+run_name: whimsical-flea-834
+run_uuid: a5011f92cd7f42dea05cbfb3cdf14df9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099990897
+status: 3
+tags: []
+user_id: sabie

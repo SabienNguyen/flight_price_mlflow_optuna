@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/c3f14f37ba92430fb93ba2338475e05b/artifacts
+end_time: 1707099937682
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: c3f14f37ba92430fb93ba2338475e05b
+run_name: youthful-gnat-466
+run_uuid: c3f14f37ba92430fb93ba2338475e05b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099935100
+status: 3
+tags: []
+user_id: sabie

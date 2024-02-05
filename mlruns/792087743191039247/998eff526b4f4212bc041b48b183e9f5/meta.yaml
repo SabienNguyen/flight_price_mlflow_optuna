@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/998eff526b4f4212bc041b48b183e9f5/artifacts
+end_time: 1707099983772
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 998eff526b4f4212bc041b48b183e9f5
+run_name: orderly-hare-273
+run_uuid: 998eff526b4f4212bc041b48b183e9f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099982753
+status: 3
+tags: []
+user_id: sabie

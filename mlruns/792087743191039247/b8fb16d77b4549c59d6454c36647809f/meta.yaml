@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/b8fb16d77b4549c59d6454c36647809f/artifacts
+end_time: 1707100006047
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: b8fb16d77b4549c59d6454c36647809f
+run_name: gaudy-hare-444
+run_uuid: b8fb16d77b4549c59d6454c36647809f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100005274
+status: 3
+tags: []
+user_id: sabie

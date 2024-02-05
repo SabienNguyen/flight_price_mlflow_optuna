@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/d87e562bf10246bdb380c1874c6c54eb/artifacts
+end_time: 1707100582993
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: d87e562bf10246bdb380c1874c6c54eb
+run_name: rumbling-horse-234
+run_uuid: d87e562bf10246bdb380c1874c6c54eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100580873
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/38b97850196a4247b13a58ac71bf502d/artifacts
+end_time: 1707099172113
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 38b97850196a4247b13a58ac71bf502d
+run_name: aged-gnat-297
+run_uuid: 38b97850196a4247b13a58ac71bf502d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099171021
+status: 3
+tags: []
+user_id: sabie

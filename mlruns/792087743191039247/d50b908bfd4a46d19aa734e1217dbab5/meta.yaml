@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/d50b908bfd4a46d19aa734e1217dbab5/artifacts
+end_time: 1707099701097
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: d50b908bfd4a46d19aa734e1217dbab5
+run_name: capable-chimp-162
+run_uuid: d50b908bfd4a46d19aa734e1217dbab5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099700179
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a743497f921c4d22bf15f8a4e3d5dd6d/artifacts
+end_time: 1707099469805
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a743497f921c4d22bf15f8a4e3d5dd6d
+run_name: wise-dog-515
+run_uuid: a743497f921c4d22bf15f8a4e3d5dd6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099468918
+status: 3
+tags: []
+user_id: sabie

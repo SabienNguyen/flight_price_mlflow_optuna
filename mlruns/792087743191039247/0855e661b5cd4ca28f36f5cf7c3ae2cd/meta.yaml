@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/0855e661b5cd4ca28f36f5cf7c3ae2cd/artifacts
+end_time: 1707099221458
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 0855e661b5cd4ca28f36f5cf7c3ae2cd
+run_name: able-swan-193
+run_uuid: 0855e661b5cd4ca28f36f5cf7c3ae2cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099220917
+status: 3
+tags: []
+user_id: sabie

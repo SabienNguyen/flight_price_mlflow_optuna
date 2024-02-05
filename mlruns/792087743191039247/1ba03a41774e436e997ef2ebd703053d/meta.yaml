@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/1ba03a41774e436e997ef2ebd703053d/artifacts
+end_time: 1707099838020
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 1ba03a41774e436e997ef2ebd703053d
+run_name: unequaled-mare-713
+run_uuid: 1ba03a41774e436e997ef2ebd703053d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099835341
+status: 3
+tags: []
+user_id: sabie

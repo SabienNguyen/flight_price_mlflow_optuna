@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/9ea4e9aa0200401d96ee56fe6778b03e/artifacts
+end_time: 1707099777482
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 9ea4e9aa0200401d96ee56fe6778b03e
+run_name: adorable-wren-146
+run_uuid: 9ea4e9aa0200401d96ee56fe6778b03e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099776219
+status: 3
+tags: []
+user_id: sabie

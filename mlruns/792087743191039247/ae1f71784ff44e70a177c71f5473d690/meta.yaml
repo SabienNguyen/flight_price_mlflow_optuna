@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ae1f71784ff44e70a177c71f5473d690/artifacts
+end_time: 1707099225442
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ae1f71784ff44e70a177c71f5473d690
+run_name: efficient-snipe-184
+run_uuid: ae1f71784ff44e70a177c71f5473d690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099224743
+status: 3
+tags: []
+user_id: sabie

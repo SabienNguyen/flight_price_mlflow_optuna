@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/918a600f8c994d3b91d7a8ca31e0927e/artifacts
+end_time: 1707100262800
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 918a600f8c994d3b91d7a8ca31e0927e
+run_name: brawny-hog-595
+run_uuid: 918a600f8c994d3b91d7a8ca31e0927e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100260407
+status: 3
+tags: []
+user_id: sabie

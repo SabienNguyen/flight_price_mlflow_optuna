@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/2ef7b6ba22c34ec39221cdf885bcee5b/artifacts
+end_time: 1707099230574
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 2ef7b6ba22c34ec39221cdf885bcee5b
+run_name: unruly-midge-790
+run_uuid: 2ef7b6ba22c34ec39221cdf885bcee5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099230086
+status: 3
+tags: []
+user_id: sabie

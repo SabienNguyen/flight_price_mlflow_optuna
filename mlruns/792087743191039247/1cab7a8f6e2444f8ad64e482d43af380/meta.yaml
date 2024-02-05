@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/1cab7a8f6e2444f8ad64e482d43af380/artifacts
+end_time: 1707100559359
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 1cab7a8f6e2444f8ad64e482d43af380
+run_name: sedate-sow-728
+run_uuid: 1cab7a8f6e2444f8ad64e482d43af380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100557884
+status: 3
+tags: []
+user_id: sabie

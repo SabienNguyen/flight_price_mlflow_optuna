@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/109f8c39e2584aaea7a39370ddca2f0f/artifacts
+end_time: 1707099861009
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 109f8c39e2584aaea7a39370ddca2f0f
+run_name: luxuriant-mule-893
+run_uuid: 109f8c39e2584aaea7a39370ddca2f0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099859628
+status: 3
+tags: []
+user_id: sabie

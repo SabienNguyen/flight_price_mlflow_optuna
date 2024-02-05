@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/001cf8af86b242cf9be99bdb966d75ea/artifacts
+end_time: 1707099460685
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 001cf8af86b242cf9be99bdb966d75ea
+run_name: capable-toad-546
+run_uuid: 001cf8af86b242cf9be99bdb966d75ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099459549
+status: 3
+tags: []
+user_id: sabie

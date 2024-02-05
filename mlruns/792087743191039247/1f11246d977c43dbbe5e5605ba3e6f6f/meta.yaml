@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/1f11246d977c43dbbe5e5605ba3e6f6f/artifacts
+end_time: 1707100845716
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 1f11246d977c43dbbe5e5605ba3e6f6f
+run_name: valuable-zebra-783
+run_uuid: 1f11246d977c43dbbe5e5605ba3e6f6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100844543
+status: 3
+tags: []
+user_id: sabie

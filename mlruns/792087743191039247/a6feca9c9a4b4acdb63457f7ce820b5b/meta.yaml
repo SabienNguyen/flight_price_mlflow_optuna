@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a6feca9c9a4b4acdb63457f7ce820b5b/artifacts
+end_time: 1707099964245
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a6feca9c9a4b4acdb63457f7ce820b5b
+run_name: charming-boar-742
+run_uuid: a6feca9c9a4b4acdb63457f7ce820b5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099962667
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/59eba2e9add441b9b49fea7c3587ac1c/artifacts
+end_time: 1707099448729
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 59eba2e9add441b9b49fea7c3587ac1c
+run_name: melodic-dove-180
+run_uuid: 59eba2e9add441b9b49fea7c3587ac1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099447307
+status: 3
+tags: []
+user_id: sabie

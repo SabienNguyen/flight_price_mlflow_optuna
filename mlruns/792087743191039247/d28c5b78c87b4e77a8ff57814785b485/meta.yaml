@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/d28c5b78c87b4e77a8ff57814785b485/artifacts
+end_time: 1707099545077
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: d28c5b78c87b4e77a8ff57814785b485
+run_name: righteous-crab-207
+run_uuid: d28c5b78c87b4e77a8ff57814785b485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099544627
+status: 3
+tags: []
+user_id: sabie

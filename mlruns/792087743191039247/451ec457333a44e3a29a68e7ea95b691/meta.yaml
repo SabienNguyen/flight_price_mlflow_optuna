@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/451ec457333a44e3a29a68e7ea95b691/artifacts
+end_time: 1707100176838
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 451ec457333a44e3a29a68e7ea95b691
+run_name: glamorous-skink-87
+run_uuid: 451ec457333a44e3a29a68e7ea95b691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100176265
+status: 3
+tags: []
+user_id: sabie

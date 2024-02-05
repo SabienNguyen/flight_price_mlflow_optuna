@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/8d90eb7af11e4c1f81e561e979a98fbe/artifacts
+end_time: 1707099951407
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 8d90eb7af11e4c1f81e561e979a98fbe
+run_name: youthful-midge-316
+run_uuid: 8d90eb7af11e4c1f81e561e979a98fbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099949700
+status: 3
+tags: []
+user_id: sabie

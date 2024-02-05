@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/aa5f21e3efaf44739e10cd8a6df39ed0/artifacts
+end_time: 1707100493394
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: aa5f21e3efaf44739e10cd8a6df39ed0
+run_name: nervous-roo-660
+run_uuid: aa5f21e3efaf44739e10cd8a6df39ed0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100492350
+status: 3
+tags: []
+user_id: sabie

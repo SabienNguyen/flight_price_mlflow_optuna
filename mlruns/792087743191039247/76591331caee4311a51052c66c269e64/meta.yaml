@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/76591331caee4311a51052c66c269e64/artifacts
+end_time: 1707099113747
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 76591331caee4311a51052c66c269e64
+run_name: exultant-hog-35
+run_uuid: 76591331caee4311a51052c66c269e64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099113072
+status: 3
+tags: []
+user_id: sabie

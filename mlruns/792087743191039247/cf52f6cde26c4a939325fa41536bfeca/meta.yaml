@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/cf52f6cde26c4a939325fa41536bfeca/artifacts
+end_time: 1707100007370
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: cf52f6cde26c4a939325fa41536bfeca
+run_name: zealous-bass-779
+run_uuid: cf52f6cde26c4a939325fa41536bfeca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100006574
+status: 3
+tags: []
+user_id: sabie

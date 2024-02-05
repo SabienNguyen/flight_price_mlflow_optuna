@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/e7f5efe1e31e4621a96479835f7656a2/artifacts
+end_time: 1707099620092
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: e7f5efe1e31e4621a96479835f7656a2
+run_name: calm-squirrel-179
+run_uuid: e7f5efe1e31e4621a96479835f7656a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099619170
+status: 3
+tags: []
+user_id: sabie

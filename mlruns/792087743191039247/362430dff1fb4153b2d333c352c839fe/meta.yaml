@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/362430dff1fb4153b2d333c352c839fe/artifacts
+end_time: 1707100727368
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 362430dff1fb4153b2d333c352c839fe
+run_name: intrigued-bird-720
+run_uuid: 362430dff1fb4153b2d333c352c839fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100725942
+status: 3
+tags: []
+user_id: sabie

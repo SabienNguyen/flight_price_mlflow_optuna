@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/e41ee847d96d4d6fa64904c113c4a4e9/artifacts
+end_time: 1707099694190
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: e41ee847d96d4d6fa64904c113c4a4e9
+run_name: rare-shrike-705
+run_uuid: e41ee847d96d4d6fa64904c113c4a4e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099693269
+status: 3
+tags: []
+user_id: sabie

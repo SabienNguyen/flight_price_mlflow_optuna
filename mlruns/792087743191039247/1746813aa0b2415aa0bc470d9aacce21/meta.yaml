@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/1746813aa0b2415aa0bc470d9aacce21/artifacts
+end_time: 1707099833595
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 1746813aa0b2415aa0bc470d9aacce21
+run_name: delicate-snake-502
+run_uuid: 1746813aa0b2415aa0bc470d9aacce21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099832240
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/44904397e6214caf85af9d2dab6a80f4/artifacts
+end_time: 1707100809906
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 44904397e6214caf85af9d2dab6a80f4
+run_name: legendary-bug-920
+run_uuid: 44904397e6214caf85af9d2dab6a80f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100808916
+status: 3
+tags: []
+user_id: sabie

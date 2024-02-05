@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/8ee4deab0ff849a99fd466de236cb8fe/artifacts
+end_time: 1707100288363
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 8ee4deab0ff849a99fd466de236cb8fe
+run_name: overjoyed-skink-853
+run_uuid: 8ee4deab0ff849a99fd466de236cb8fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100285971
+status: 3
+tags: []
+user_id: sabie

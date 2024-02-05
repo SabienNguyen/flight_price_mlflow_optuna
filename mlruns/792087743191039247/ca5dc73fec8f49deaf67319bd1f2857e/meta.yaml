@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ca5dc73fec8f49deaf67319bd1f2857e/artifacts
+end_time: 1707099177937
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ca5dc73fec8f49deaf67319bd1f2857e
+run_name: nebulous-lynx-816
+run_uuid: ca5dc73fec8f49deaf67319bd1f2857e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099177145
+status: 3
+tags: []
+user_id: sabie

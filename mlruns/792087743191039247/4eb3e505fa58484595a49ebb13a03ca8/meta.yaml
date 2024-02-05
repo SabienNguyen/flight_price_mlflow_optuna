@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/4eb3e505fa58484595a49ebb13a03ca8/artifacts
+end_time: 1707100052274
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 4eb3e505fa58484595a49ebb13a03ca8
+run_name: thoughtful-robin-477
+run_uuid: 4eb3e505fa58484595a49ebb13a03ca8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100051194
+status: 3
+tags: []
+user_id: sabie

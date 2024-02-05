@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/6b2bfcbef3d84ad6af254dc24c0a38c9/artifacts
+end_time: 1707099089905
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 6b2bfcbef3d84ad6af254dc24c0a38c9
+run_name: treasured-lynx-456
+run_uuid: 6b2bfcbef3d84ad6af254dc24c0a38c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099089345
+status: 3
+tags: []
+user_id: sabie

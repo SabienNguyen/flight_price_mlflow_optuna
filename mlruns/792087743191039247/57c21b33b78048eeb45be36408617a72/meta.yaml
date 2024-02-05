@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/57c21b33b78048eeb45be36408617a72/artifacts
+end_time: 1707099621820
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 57c21b33b78048eeb45be36408617a72
+run_name: unleashed-hound-857
+run_uuid: 57c21b33b78048eeb45be36408617a72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099621025
+status: 3
+tags: []
+user_id: sabie

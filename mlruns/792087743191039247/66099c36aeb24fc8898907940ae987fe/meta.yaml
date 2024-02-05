@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/66099c36aeb24fc8898907940ae987fe/artifacts
+end_time: 1707100439535
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 66099c36aeb24fc8898907940ae987fe
+run_name: capable-eel-467
+run_uuid: 66099c36aeb24fc8898907940ae987fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100438689
+status: 3
+tags: []
+user_id: sabie

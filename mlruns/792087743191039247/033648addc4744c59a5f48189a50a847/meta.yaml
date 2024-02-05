@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/033648addc4744c59a5f48189a50a847/artifacts
+end_time: 1707099449797
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 033648addc4744c59a5f48189a50a847
+run_name: monumental-hawk-98
+run_uuid: 033648addc4744c59a5f48189a50a847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099448776
+status: 3
+tags: []
+user_id: sabie

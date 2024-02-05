@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/025e72c8f6014a42aec71302aa4e8e85/artifacts
+end_time: 1707100459868
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 025e72c8f6014a42aec71302aa4e8e85
+run_name: nervous-quail-791
+run_uuid: 025e72c8f6014a42aec71302aa4e8e85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100458608
+status: 3
+tags: []
+user_id: sabie

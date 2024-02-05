@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ea68ebe72763401696fd1247f60aea6c/artifacts
+end_time: 1707100815380
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ea68ebe72763401696fd1247f60aea6c
+run_name: kindly-dog-637
+run_uuid: ea68ebe72763401696fd1247f60aea6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100814389
+status: 3
+tags: []
+user_id: sabie

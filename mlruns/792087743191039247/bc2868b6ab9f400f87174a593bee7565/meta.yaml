@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/bc2868b6ab9f400f87174a593bee7565/artifacts
+end_time: 1707099540104
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: bc2868b6ab9f400f87174a593bee7565
+run_name: bustling-elk-516
+run_uuid: bc2868b6ab9f400f87174a593bee7565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099539209
+status: 3
+tags: []
+user_id: sabie

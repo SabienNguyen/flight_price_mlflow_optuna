@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/18434bbde08f46f68327333fbde27652/artifacts
+end_time: 1707099586177
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 18434bbde08f46f68327333fbde27652
+run_name: powerful-hare-135
+run_uuid: 18434bbde08f46f68327333fbde27652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099585350
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/eda98ef210044981b3848fb2595e880c/artifacts
+end_time: 1707099989059
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: eda98ef210044981b3848fb2595e880c
+run_name: handsome-carp-339
+run_uuid: eda98ef210044981b3848fb2595e880c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099988069
+status: 3
+tags: []
+user_id: sabie

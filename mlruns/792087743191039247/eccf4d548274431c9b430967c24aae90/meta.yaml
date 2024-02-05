@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/eccf4d548274431c9b430967c24aae90/artifacts
+end_time: 1707100400506
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: eccf4d548274431c9b430967c24aae90
+run_name: big-skink-366
+run_uuid: eccf4d548274431c9b430967c24aae90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100398885
+status: 3
+tags: []
+user_id: sabie

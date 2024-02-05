@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ff17de3e09df43ed80ec5ea387f4ee20/artifacts
+end_time: 1707100575033
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ff17de3e09df43ed80ec5ea387f4ee20
+run_name: enchanting-moose-396
+run_uuid: ff17de3e09df43ed80ec5ea387f4ee20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100572874
+status: 3
+tags: []
+user_id: sabie

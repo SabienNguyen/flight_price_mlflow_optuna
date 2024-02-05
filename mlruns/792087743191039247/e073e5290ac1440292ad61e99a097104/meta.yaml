@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/e073e5290ac1440292ad61e99a097104/artifacts
+end_time: 1707099193386
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: e073e5290ac1440292ad61e99a097104
+run_name: grandiose-hawk-782
+run_uuid: e073e5290ac1440292ad61e99a097104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099192510
+status: 3
+tags: []
+user_id: sabie

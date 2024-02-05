@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/b17742267e324fc5a58e6f30f4aa757b/artifacts
+end_time: 1707099097468
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: b17742267e324fc5a58e6f30f4aa757b
+run_name: magnificent-fly-722
+run_uuid: b17742267e324fc5a58e6f30f4aa757b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099096218
+status: 3
+tags: []
+user_id: sabie

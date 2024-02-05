@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/f299f3ee91894e90a193b9d39eec4922/artifacts
+end_time: 1707099109888
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: f299f3ee91894e90a193b9d39eec4922
+run_name: skillful-ram-256
+run_uuid: f299f3ee91894e90a193b9d39eec4922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099108694
+status: 3
+tags: []
+user_id: sabie

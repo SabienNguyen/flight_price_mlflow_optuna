@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/89c5e5cfdc0b412daa050a0a925fed14/artifacts
+end_time: 1707099454502
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 89c5e5cfdc0b412daa050a0a925fed14
+run_name: dashing-calf-832
+run_uuid: 89c5e5cfdc0b412daa050a0a925fed14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099453666
+status: 3
+tags: []
+user_id: sabie

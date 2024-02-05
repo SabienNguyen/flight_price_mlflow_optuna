@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a7970dd1329c408e876fefa5ae3e6cc0/artifacts
+end_time: 1707099929943
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a7970dd1329c408e876fefa5ae3e6cc0
+run_name: legendary-swan-157
+run_uuid: a7970dd1329c408e876fefa5ae3e6cc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099928351
+status: 3
+tags: []
+user_id: sabie

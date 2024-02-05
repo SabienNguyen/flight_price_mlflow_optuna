@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/16751b78cbe4482cb32f8be6517f8e8f/artifacts
+end_time: 1707100359439
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 16751b78cbe4482cb32f8be6517f8e8f
+run_name: debonair-sheep-797
+run_uuid: 16751b78cbe4482cb32f8be6517f8e8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100358253
+status: 3
+tags: []
+user_id: sabie

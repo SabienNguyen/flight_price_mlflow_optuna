@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/7a50124e42bc402c8733a6ecbc9b947c/artifacts
+end_time: 1707099178750
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 7a50124e42bc402c8733a6ecbc9b947c
+run_name: vaunted-jay-719
+run_uuid: 7a50124e42bc402c8733a6ecbc9b947c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099177960
+status: 3
+tags: []
+user_id: sabie

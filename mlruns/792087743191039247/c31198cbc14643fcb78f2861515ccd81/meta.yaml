@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/c31198cbc14643fcb78f2861515ccd81/artifacts
+end_time: 1707100826882
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: c31198cbc14643fcb78f2861515ccd81
+run_name: luminous-stoat-484
+run_uuid: c31198cbc14643fcb78f2861515ccd81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100825521
+status: 3
+tags: []
+user_id: sabie

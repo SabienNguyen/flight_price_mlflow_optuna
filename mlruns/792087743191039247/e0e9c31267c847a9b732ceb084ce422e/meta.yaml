@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/e0e9c31267c847a9b732ceb084ce422e/artifacts
+end_time: 1707100191198
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: e0e9c31267c847a9b732ceb084ce422e
+run_name: likeable-tern-27
+run_uuid: e0e9c31267c847a9b732ceb084ce422e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100190235
+status: 3
+tags: []
+user_id: sabie

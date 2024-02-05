@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/f6122e29b8ca4434a6fc202eefb9d343/artifacts
+end_time: 1707100189157
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: f6122e29b8ca4434a6fc202eefb9d343
+run_name: honorable-crab-861
+run_uuid: f6122e29b8ca4434a6fc202eefb9d343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100188493
+status: 3
+tags: []
+user_id: sabie

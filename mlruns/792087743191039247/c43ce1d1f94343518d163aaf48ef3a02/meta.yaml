@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/c43ce1d1f94343518d163aaf48ef3a02/artifacts
+end_time: 1707100161557
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: c43ce1d1f94343518d163aaf48ef3a02
+run_name: bustling-kite-544
+run_uuid: c43ce1d1f94343518d163aaf48ef3a02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100160905
+status: 3
+tags: []
+user_id: sabie

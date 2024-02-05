@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/09dca1dd11f64716aecaed4b22b00d97/artifacts
+end_time: 1707100650851
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 09dca1dd11f64716aecaed4b22b00d97
+run_name: shivering-elk-666
+run_uuid: 09dca1dd11f64716aecaed4b22b00d97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100648699
+status: 3
+tags: []
+user_id: sabie

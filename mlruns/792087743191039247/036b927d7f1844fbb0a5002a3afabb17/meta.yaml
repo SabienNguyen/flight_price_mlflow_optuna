@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/036b927d7f1844fbb0a5002a3afabb17/artifacts
+end_time: 1707099908306
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 036b927d7f1844fbb0a5002a3afabb17
+run_name: fearless-dove-582
+run_uuid: 036b927d7f1844fbb0a5002a3afabb17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099905655
+status: 3
+tags: []
+user_id: sabie

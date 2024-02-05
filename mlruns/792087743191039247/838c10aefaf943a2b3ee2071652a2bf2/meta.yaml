@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/838c10aefaf943a2b3ee2071652a2bf2/artifacts
+end_time: 1707100657609
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 838c10aefaf943a2b3ee2071652a2bf2
+run_name: merciful-stoat-185
+run_uuid: 838c10aefaf943a2b3ee2071652a2bf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100655857
+status: 3
+tags: []
+user_id: sabie

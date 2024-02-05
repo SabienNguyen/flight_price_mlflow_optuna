@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/aa1feaf8c5c34551a71062f7af5a0a42/artifacts
+end_time: 1707099211460
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: aa1feaf8c5c34551a71062f7af5a0a42
+run_name: unleashed-mare-592
+run_uuid: aa1feaf8c5c34551a71062f7af5a0a42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099211037
+status: 3
+tags: []
+user_id: sabie

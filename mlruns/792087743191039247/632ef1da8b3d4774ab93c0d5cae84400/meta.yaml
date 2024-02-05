@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/632ef1da8b3d4774ab93c0d5cae84400/artifacts
+end_time: 1707099567514
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 632ef1da8b3d4774ab93c0d5cae84400
+run_name: marvelous-shad-20
+run_uuid: 632ef1da8b3d4774ab93c0d5cae84400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099566639
+status: 3
+tags: []
+user_id: sabie

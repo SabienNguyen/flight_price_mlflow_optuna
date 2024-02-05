@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/e2e3119e63b44986a8968fc1124d8305/artifacts
+end_time: 1707099609365
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: e2e3119e63b44986a8968fc1124d8305
+run_name: grandiose-midge-155
+run_uuid: e2e3119e63b44986a8968fc1124d8305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099608173
+status: 3
+tags: []
+user_id: sabie

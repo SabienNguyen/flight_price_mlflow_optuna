@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/dc5bc67e15004f4a80f0c10e74a343e6/artifacts
+end_time: 1707100722209
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: dc5bc67e15004f4a80f0c10e74a343e6
+run_name: colorful-bass-735
+run_uuid: dc5bc67e15004f4a80f0c10e74a343e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100720712
+status: 3
+tags: []
+user_id: sabie

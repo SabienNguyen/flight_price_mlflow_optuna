@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/e9e34df3d18c4399a19b081c69e3e36f/artifacts
+end_time: 1707100409969
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: e9e34df3d18c4399a19b081c69e3e36f
+run_name: omniscient-kite-383
+run_uuid: e9e34df3d18c4399a19b081c69e3e36f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100407552
+status: 3
+tags: []
+user_id: sabie

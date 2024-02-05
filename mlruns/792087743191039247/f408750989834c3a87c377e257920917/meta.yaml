@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/f408750989834c3a87c377e257920917/artifacts
+end_time: 1707100616998
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: f408750989834c3a87c377e257920917
+run_name: delightful-flea-819
+run_uuid: f408750989834c3a87c377e257920917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100614267
+status: 3
+tags: []
+user_id: sabie

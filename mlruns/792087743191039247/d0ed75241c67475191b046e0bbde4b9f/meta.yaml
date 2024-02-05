@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/d0ed75241c67475191b046e0bbde4b9f/artifacts
+end_time: 1707100347846
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: d0ed75241c67475191b046e0bbde4b9f
+run_name: welcoming-elk-453
+run_uuid: d0ed75241c67475191b046e0bbde4b9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100346386
+status: 3
+tags: []
+user_id: sabie

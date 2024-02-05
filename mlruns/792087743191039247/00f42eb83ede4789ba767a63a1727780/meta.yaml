@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/00f42eb83ede4789ba767a63a1727780/artifacts
+end_time: 1707099858646
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 00f42eb83ede4789ba767a63a1727780
+run_name: placid-carp-4
+run_uuid: 00f42eb83ede4789ba767a63a1727780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099856195
+status: 3
+tags: []
+user_id: sabie

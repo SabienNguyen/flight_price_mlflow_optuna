@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/dff56bc9b3ce400cba9d2802cadfcb66/artifacts
+end_time: 1707100014414
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: dff56bc9b3ce400cba9d2802cadfcb66
+run_name: judicious-fish-189
+run_uuid: dff56bc9b3ce400cba9d2802cadfcb66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100013290
+status: 3
+tags: []
+user_id: sabie

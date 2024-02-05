@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a4653743b4c64aad9de2b3fa20589331/artifacts
+end_time: 1707099653183
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a4653743b4c64aad9de2b3fa20589331
+run_name: ambitious-stork-131
+run_uuid: a4653743b4c64aad9de2b3fa20589331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099652033
+status: 3
+tags: []
+user_id: sabie

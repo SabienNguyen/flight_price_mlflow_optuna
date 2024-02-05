@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/c7c6932fa90e43c3a4919b4284cae87c/artifacts
+end_time: 1707100187931
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: c7c6932fa90e43c3a4919b4284cae87c
+run_name: auspicious-gnu-796
+run_uuid: c7c6932fa90e43c3a4919b4284cae87c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100187415
+status: 3
+tags: []
+user_id: sabie

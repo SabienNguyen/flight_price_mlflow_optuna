@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/b01d21cd07584307b029f166771820a1/artifacts
+end_time: 1707099194984
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: b01d21cd07584307b029f166771820a1
+run_name: luxuriant-grub-210
+run_uuid: b01d21cd07584307b029f166771820a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099194263
+status: 3
+tags: []
+user_id: sabie

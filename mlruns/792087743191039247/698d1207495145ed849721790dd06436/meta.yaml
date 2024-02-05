@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/698d1207495145ed849721790dd06436/artifacts
+end_time: 1707100818003
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 698d1207495145ed849721790dd06436
+run_name: auspicious-robin-213
+run_uuid: 698d1207495145ed849721790dd06436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100816748
+status: 3
+tags: []
+user_id: sabie

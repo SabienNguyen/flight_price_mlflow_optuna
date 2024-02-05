@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/0f005a8f071840f19bcf440c85fe5bc0/artifacts
+end_time: 1707099707503
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 0f005a8f071840f19bcf440c85fe5bc0
+run_name: upbeat-swan-298
+run_uuid: 0f005a8f071840f19bcf440c85fe5bc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099706687
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/7abcd70c145d47cdbfe9c70b940aa7dc/artifacts
+end_time: 1707099638515
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 7abcd70c145d47cdbfe9c70b940aa7dc
+run_name: welcoming-snail-432
+run_uuid: 7abcd70c145d47cdbfe9c70b940aa7dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099636940
+status: 3
+tags: []
+user_id: sabie

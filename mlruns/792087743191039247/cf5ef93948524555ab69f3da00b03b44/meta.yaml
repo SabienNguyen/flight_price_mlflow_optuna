@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/cf5ef93948524555ab69f3da00b03b44/artifacts
+end_time: 1707099541002
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: cf5ef93948524555ab69f3da00b03b44
+run_name: funny-dolphin-765
+run_uuid: cf5ef93948524555ab69f3da00b03b44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099540365
+status: 3
+tags: []
+user_id: sabie

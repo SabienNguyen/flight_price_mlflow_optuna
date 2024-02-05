@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/568cca2caca5496dbb8a821b1938fd93/artifacts
+end_time: 1707099549137
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 568cca2caca5496dbb8a821b1938fd93
+run_name: luminous-deer-984
+run_uuid: 568cca2caca5496dbb8a821b1938fd93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099548213
+status: 3
+tags: []
+user_id: sabie

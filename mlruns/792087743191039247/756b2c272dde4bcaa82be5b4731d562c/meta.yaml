@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/756b2c272dde4bcaa82be5b4731d562c/artifacts
+end_time: 1707100054267
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 756b2c272dde4bcaa82be5b4731d562c
+run_name: bald-hen-496
+run_uuid: 756b2c272dde4bcaa82be5b4731d562c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100053386
+status: 3
+tags: []
+user_id: sabie

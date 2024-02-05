@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/9e7dc7e499e948bcb9ad3f73799d5bea/artifacts
+end_time: 1707100151727
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 9e7dc7e499e948bcb9ad3f73799d5bea
+run_name: thundering-perch-523
+run_uuid: 9e7dc7e499e948bcb9ad3f73799d5bea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100151112
+status: 3
+tags: []
+user_id: sabie

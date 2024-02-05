@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/e33adfffea214f5e848e18b3117c378b/artifacts
+end_time: 1707100179077
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: e33adfffea214f5e848e18b3117c378b
+run_name: intrigued-trout-710
+run_uuid: e33adfffea214f5e848e18b3117c378b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100178349
+status: 3
+tags: []
+user_id: sabie

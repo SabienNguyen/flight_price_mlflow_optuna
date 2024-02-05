@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/657bbffa1d4c414997432ef6417424d2/artifacts
+end_time: 1707100795314
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 657bbffa1d4c414997432ef6417424d2
+run_name: beautiful-zebra-740
+run_uuid: 657bbffa1d4c414997432ef6417424d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100794441
+status: 3
+tags: []
+user_id: sabie

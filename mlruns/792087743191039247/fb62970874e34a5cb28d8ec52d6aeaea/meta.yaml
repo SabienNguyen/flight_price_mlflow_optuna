@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/fb62970874e34a5cb28d8ec52d6aeaea/artifacts
+end_time: 1707100005246
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: fb62970874e34a5cb28d8ec52d6aeaea
+run_name: enchanting-shad-387
+run_uuid: fb62970874e34a5cb28d8ec52d6aeaea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100004462
+status: 3
+tags: []
+user_id: sabie

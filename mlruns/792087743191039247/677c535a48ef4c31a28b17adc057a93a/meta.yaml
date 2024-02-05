@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/677c535a48ef4c31a28b17adc057a93a/artifacts
+end_time: 1707100525700
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 677c535a48ef4c31a28b17adc057a93a
+run_name: peaceful-jay-608
+run_uuid: 677c535a48ef4c31a28b17adc057a93a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100524620
+status: 3
+tags: []
+user_id: sabie

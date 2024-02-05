@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/88a2a90b555548db9fc989ebd45ed36a/artifacts
+end_time: 1707100172835
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 88a2a90b555548db9fc989ebd45ed36a
+run_name: monumental-perch-786
+run_uuid: 88a2a90b555548db9fc989ebd45ed36a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100172443
+status: 3
+tags: []
+user_id: sabie

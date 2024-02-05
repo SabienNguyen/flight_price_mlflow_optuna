@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/069bb9c3a26240f2868935245167bb8a/artifacts
+end_time: 1707100184995
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 069bb9c3a26240f2868935245167bb8a
+run_name: luxuriant-toad-633
+run_uuid: 069bb9c3a26240f2868935245167bb8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100184542
+status: 3
+tags: []
+user_id: sabie

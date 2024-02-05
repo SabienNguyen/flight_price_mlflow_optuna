@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/c66b91ff23b845ea82ca7c5849c23233/artifacts
+end_time: 1707099754137
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: c66b91ff23b845ea82ca7c5849c23233
+run_name: gentle-slug-542
+run_uuid: c66b91ff23b845ea82ca7c5849c23233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099753143
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/05c02c39accd4eb0b09ffeb97f21d2f2/artifacts
+end_time: 1707100530185
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 05c02c39accd4eb0b09ffeb97f21d2f2
+run_name: merciful-skunk-793
+run_uuid: 05c02c39accd4eb0b09ffeb97f21d2f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100528907
+status: 3
+tags: []
+user_id: sabie

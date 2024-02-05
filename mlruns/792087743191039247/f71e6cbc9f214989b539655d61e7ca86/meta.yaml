@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/f71e6cbc9f214989b539655d61e7ca86/artifacts
+end_time: 1707100339369
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: f71e6cbc9f214989b539655d61e7ca86
+run_name: merciful-bass-625
+run_uuid: f71e6cbc9f214989b539655d61e7ca86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100337723
+status: 3
+tags: []
+user_id: sabie

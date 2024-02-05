@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/6687c067c7d940a589c7aef1f859d395/artifacts
+end_time: 1707100195685
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 6687c067c7d940a589c7aef1f859d395
+run_name: bustling-boar-56
+run_uuid: 6687c067c7d940a589c7aef1f859d395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100194972
+status: 3
+tags: []
+user_id: sabie

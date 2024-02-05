@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/aac0ef776f3e454a91d67372d8a4452c/artifacts
+end_time: 1707100577695
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: aac0ef776f3e454a91d67372d8a4452c
+run_name: hilarious-mule-503
+run_uuid: aac0ef776f3e454a91d67372d8a4452c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100575097
+status: 3
+tags: []
+user_id: sabie

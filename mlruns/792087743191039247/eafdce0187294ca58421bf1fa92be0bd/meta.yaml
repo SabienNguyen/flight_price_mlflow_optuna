@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/eafdce0187294ca58421bf1fa92be0bd/artifacts
+end_time: 1707099932765
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: eafdce0187294ca58421bf1fa92be0bd
+run_name: judicious-koi-992
+run_uuid: eafdce0187294ca58421bf1fa92be0bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099931477
+status: 3
+tags: []
+user_id: sabie

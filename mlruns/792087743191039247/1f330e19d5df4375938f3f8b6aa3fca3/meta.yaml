@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/1f330e19d5df4375938f3f8b6aa3fca3/artifacts
+end_time: 1707100208480
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 1f330e19d5df4375938f3f8b6aa3fca3
+run_name: brawny-ox-951
+run_uuid: 1f330e19d5df4375938f3f8b6aa3fca3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100207763
+status: 3
+tags: []
+user_id: sabie

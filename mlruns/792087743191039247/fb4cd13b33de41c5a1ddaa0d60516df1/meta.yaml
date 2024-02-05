@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/fb4cd13b33de41c5a1ddaa0d60516df1/artifacts
+end_time: 1707099769041
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: fb4cd13b33de41c5a1ddaa0d60516df1
+run_name: chill-dove-502
+run_uuid: fb4cd13b33de41c5a1ddaa0d60516df1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099767965
+status: 3
+tags: []
+user_id: sabie

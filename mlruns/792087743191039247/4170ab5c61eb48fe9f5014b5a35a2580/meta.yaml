@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/4170ab5c61eb48fe9f5014b5a35a2580/artifacts
+end_time: 1707099543034
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 4170ab5c61eb48fe9f5014b5a35a2580
+run_name: colorful-fawn-933
+run_uuid: 4170ab5c61eb48fe9f5014b5a35a2580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099542564
+status: 3
+tags: []
+user_id: sabie

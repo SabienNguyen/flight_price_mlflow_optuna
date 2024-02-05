@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/1727c94a5df646a0862dd7ff4b0afb4a/artifacts
+end_time: 1707099684107
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 1727c94a5df646a0862dd7ff4b0afb4a
+run_name: secretive-lamb-509
+run_uuid: 1727c94a5df646a0862dd7ff4b0afb4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099682672
+status: 3
+tags: []
+user_id: sabie

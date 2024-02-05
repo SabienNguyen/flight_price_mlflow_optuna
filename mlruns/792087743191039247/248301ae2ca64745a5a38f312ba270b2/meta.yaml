@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/248301ae2ca64745a5a38f312ba270b2/artifacts
+end_time: 1707100502663
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 248301ae2ca64745a5a38f312ba270b2
+run_name: monumental-bug-275
+run_uuid: 248301ae2ca64745a5a38f312ba270b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100501568
+status: 3
+tags: []
+user_id: sabie

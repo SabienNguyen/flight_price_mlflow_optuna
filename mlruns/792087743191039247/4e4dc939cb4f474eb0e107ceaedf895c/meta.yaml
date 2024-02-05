@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/4e4dc939cb4f474eb0e107ceaedf895c/artifacts
+end_time: 1707100572836
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 4e4dc939cb4f474eb0e107ceaedf895c
+run_name: unequaled-duck-226
+run_uuid: 4e4dc939cb4f474eb0e107ceaedf895c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100571875
+status: 3
+tags: []
+user_id: sabie

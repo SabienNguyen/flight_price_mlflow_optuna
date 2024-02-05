@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/3cb1e6c7fc1c475a9070661361815c1a/artifacts
+end_time: 1707100396782
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 3cb1e6c7fc1c475a9070661361815c1a
+run_name: upset-mare-878
+run_uuid: 3cb1e6c7fc1c475a9070661361815c1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100394950
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/dec43477535b4ddc99cd313abb95288c/artifacts
+end_time: 1707100828211
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: dec43477535b4ddc99cd313abb95288c
+run_name: resilient-pug-913
+run_uuid: dec43477535b4ddc99cd313abb95288c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100826912
+status: 3
+tags: []
+user_id: sabie

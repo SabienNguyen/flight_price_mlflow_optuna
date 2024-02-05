@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/124cdfb9d9bb47998809f394b23068ee/artifacts
+end_time: 1707099853505
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 124cdfb9d9bb47998809f394b23068ee
+run_name: suave-snake-693
+run_uuid: 124cdfb9d9bb47998809f394b23068ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099852537
+status: 3
+tags: []
+user_id: sabie

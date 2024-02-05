@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/cbcee68806b542eb9126d4f2fe460426/artifacts
+end_time: 1707099882249
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: cbcee68806b542eb9126d4f2fe460426
+run_name: delightful-skunk-251
+run_uuid: cbcee68806b542eb9126d4f2fe460426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099881341
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/1ad9ddd4b562494b927710e35f4053a1/artifacts
+end_time: 1707099578614
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 1ad9ddd4b562494b927710e35f4053a1
+run_name: dapper-moose-773
+run_uuid: 1ad9ddd4b562494b927710e35f4053a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099577787
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/34fa3251e81a419bbca3696eeac9e729/artifacts
+end_time: 1707099200594
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 34fa3251e81a419bbca3696eeac9e729
+run_name: glamorous-frog-883
+run_uuid: 34fa3251e81a419bbca3696eeac9e729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099199897
+status: 3
+tags: []
+user_id: sabie

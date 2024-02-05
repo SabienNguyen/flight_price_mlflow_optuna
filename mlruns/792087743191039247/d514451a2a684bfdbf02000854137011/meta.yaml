@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/d514451a2a684bfdbf02000854137011/artifacts
+end_time: 1707099921052
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: d514451a2a684bfdbf02000854137011
+run_name: thundering-rat-688
+run_uuid: d514451a2a684bfdbf02000854137011
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099920234
+status: 3
+tags: []
+user_id: sabie

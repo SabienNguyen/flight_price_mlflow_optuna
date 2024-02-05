@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/9c679df0e0ab492b9c92b96e1e224394/artifacts
+end_time: 1707100686208
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 9c679df0e0ab492b9c92b96e1e224394
+run_name: stately-fly-828
+run_uuid: 9c679df0e0ab492b9c92b96e1e224394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100684852
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/a157ae1b17c14a1dae368ddfc974e53c/artifacts
+end_time: 1707099686952
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: a157ae1b17c14a1dae368ddfc974e53c
+run_name: nervous-tern-67
+run_uuid: a157ae1b17c14a1dae368ddfc974e53c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099685583
+status: 3
+tags: []
+user_id: sabie

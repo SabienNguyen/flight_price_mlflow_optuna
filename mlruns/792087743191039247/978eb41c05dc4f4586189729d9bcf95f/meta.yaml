@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/978eb41c05dc4f4586189729d9bcf95f/artifacts
+end_time: 1707099539184
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 978eb41c05dc4f4586189729d9bcf95f
+run_name: debonair-shad-764
+run_uuid: 978eb41c05dc4f4586189729d9bcf95f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099538628
+status: 3
+tags: []
+user_id: sabie

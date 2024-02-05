@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/ebeb91d9f4da4d9295de65ba127f05c2/artifacts
+end_time: 1707099611855
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: ebeb91d9f4da4d9295de65ba127f05c2
+run_name: legendary-toad-39
+run_uuid: ebeb91d9f4da4d9295de65ba127f05c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099610570
+status: 3
+tags: []
+user_id: sabie

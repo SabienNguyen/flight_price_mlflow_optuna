@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/be053bc69436444c88baa26f9ce921ff/artifacts
+end_time: 1707100523489
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: be053bc69436444c88baa26f9ce921ff
+run_name: angry-goat-102
+run_uuid: be053bc69436444c88baa26f9ce921ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100522479
+status: 3
+tags: []
+user_id: sabie

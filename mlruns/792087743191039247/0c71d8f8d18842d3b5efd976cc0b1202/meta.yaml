@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/0c71d8f8d18842d3b5efd976cc0b1202/artifacts
+end_time: 1707100186598
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 0c71d8f8d18842d3b5efd976cc0b1202
+run_name: adorable-goose-407
+run_uuid: 0c71d8f8d18842d3b5efd976cc0b1202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100186073
+status: 3
+tags: []
+user_id: sabie

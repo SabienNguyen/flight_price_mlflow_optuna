@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/272a7656bd394c33a6ffa25426bd4b70/artifacts
+end_time: 1707099999054
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 272a7656bd394c33a6ffa25426bd4b70
+run_name: painted-calf-907
+run_uuid: 272a7656bd394c33a6ffa25426bd4b70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099998108
+status: 3
+tags: []
+user_id: sabie

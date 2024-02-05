@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/169db71f31de4e70b0e1fd4cd1f9ee40/artifacts
+end_time: 1707099121437
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 169db71f31de4e70b0e1fd4cd1f9ee40
+run_name: resilient-skink-560
+run_uuid: 169db71f31de4e70b0e1fd4cd1f9ee40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099120155
+status: 3
+tags: []
+user_id: sabie

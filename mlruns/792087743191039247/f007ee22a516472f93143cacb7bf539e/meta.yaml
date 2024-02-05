@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/f007ee22a516472f93143cacb7bf539e/artifacts
+end_time: 1707099735236
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: f007ee22a516472f93143cacb7bf539e
+run_name: bald-flea-774
+run_uuid: f007ee22a516472f93143cacb7bf539e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099734483
+status: 3
+tags: []
+user_id: sabie

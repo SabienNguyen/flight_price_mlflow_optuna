@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/4aea2f4d7d2a4ec6b80b844900bafb98/artifacts
+end_time: 1707099731372
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 4aea2f4d7d2a4ec6b80b844900bafb98
+run_name: rare-gull-377
+run_uuid: 4aea2f4d7d2a4ec6b80b844900bafb98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099730626
+status: 3
+tags: []
+user_id: sabie

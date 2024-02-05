@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/734b6fe68fa24e2b928eec589d0ebcce/artifacts
+end_time: 1707100390287
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 734b6fe68fa24e2b928eec589d0ebcce
+run_name: gaudy-smelt-635
+run_uuid: 734b6fe68fa24e2b928eec589d0ebcce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100389026
+status: 3
+tags: []
+user_id: sabie

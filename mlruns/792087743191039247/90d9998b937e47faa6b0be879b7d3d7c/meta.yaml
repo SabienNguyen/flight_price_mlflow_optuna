@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/90d9998b937e47faa6b0be879b7d3d7c/artifacts
+end_time: 1707099209966
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 90d9998b937e47faa6b0be879b7d3d7c
+run_name: delicate-zebra-946
+run_uuid: 90d9998b937e47faa6b0be879b7d3d7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099209479
+status: 3
+tags: []
+user_id: sabie

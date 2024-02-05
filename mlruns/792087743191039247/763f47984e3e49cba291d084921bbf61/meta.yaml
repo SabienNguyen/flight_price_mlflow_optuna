@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/763f47984e3e49cba291d084921bbf61/artifacts
+end_time: 1707099954578
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 763f47984e3e49cba291d084921bbf61
+run_name: luminous-wren-600
+run_uuid: 763f47984e3e49cba291d084921bbf61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099952978
+status: 3
+tags: []
+user_id: sabie

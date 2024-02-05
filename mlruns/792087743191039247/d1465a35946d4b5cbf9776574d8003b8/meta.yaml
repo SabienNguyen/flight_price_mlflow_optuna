@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/d1465a35946d4b5cbf9776574d8003b8/artifacts
+end_time: 1707100413320
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: d1465a35946d4b5cbf9776574d8003b8
+run_name: agreeable-wolf-77
+run_uuid: d1465a35946d4b5cbf9776574d8003b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100410032
+status: 3
+tags: []
+user_id: sabie

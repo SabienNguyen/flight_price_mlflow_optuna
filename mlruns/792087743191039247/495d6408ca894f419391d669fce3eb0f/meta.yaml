@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/495d6408ca894f419391d669fce3eb0f/artifacts
+end_time: 1707100203991
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 495d6408ca894f419391d669fce3eb0f
+run_name: capricious-rat-699
+run_uuid: 495d6408ca894f419391d669fce3eb0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100203195
+status: 3
+tags: []
+user_id: sabie

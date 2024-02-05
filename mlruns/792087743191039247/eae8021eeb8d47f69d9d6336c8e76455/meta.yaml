@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/eae8021eeb8d47f69d9d6336c8e76455/artifacts
+end_time: 1707099813368
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: eae8021eeb8d47f69d9d6336c8e76455
+run_name: invincible-hare-72
+run_uuid: eae8021eeb8d47f69d9d6336c8e76455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099812194
+status: 3
+tags: []
+user_id: sabie

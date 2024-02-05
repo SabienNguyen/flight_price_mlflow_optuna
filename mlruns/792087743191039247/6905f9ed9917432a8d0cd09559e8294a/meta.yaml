@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/6905f9ed9917432a8d0cd09559e8294a/artifacts
+end_time: 1707100053354
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 6905f9ed9917432a8d0cd09559e8294a
+run_name: omniscient-duck-321
+run_uuid: 6905f9ed9917432a8d0cd09559e8294a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100052307
+status: 3
+tags: []
+user_id: sabie

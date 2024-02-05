@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/4fbff176436149d4a5211cdc7d98b371/artifacts
+end_time: 1707100761410
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 4fbff176436149d4a5211cdc7d98b371
+run_name: thundering-quail-655
+run_uuid: 4fbff176436149d4a5211cdc7d98b371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100760402
+status: 3
+tags: []
+user_id: sabie

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/792087743191039247/1b55e935590a45619779ea2644273c9a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '792087743191039247'
+lifecycle_stage: active
+run_id: 1b55e935590a45619779ea2644273c9a
+run_name: fun-elk-635
+run_uuid: 1b55e935590a45619779ea2644273c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707099476652
+status: 1
+tags: []
+user_id: sabie
